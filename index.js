@@ -5,7 +5,9 @@ const sp100 = require('./lib/sp100');
 const sp500 = require('./lib/sp500');
 
 const getCompanies = async (universe) => {
+    console.log(universe.url);
     const companies = await puppeteer(universe.url, universe.selector, universe.parser);
+    console.log(companies.length);
     await storeResults(universe.path, companies);
 }
 

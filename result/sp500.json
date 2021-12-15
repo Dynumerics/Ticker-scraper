@@ -1,5 +1,5 @@
 {
-  "update": 1639519884310,
+  "update": 1639606266526,
   "companies": [
     {
       "ticker": "MMM",
@@ -872,6 +872,11 @@
       "sector": "Energy"
     },
     {
+      "ticker": "EPAM",
+      "name": "EPAM Systems",
+      "sector": "Information Technology"
+    },
+    {
       "ticker": "EFX",
       "name": "Equifax",
       "sector": "Industrials"
@@ -1345,11 +1350,6 @@
       "ticker": "JNPR",
       "name": "Juniper Networks",
       "sector": "Information Technology"
-    },
-    {
-      "ticker": "KSU",
-      "name": "Kansas City Southern",
-      "sector": "Industrials"
     },
     {
       "ticker": "K",

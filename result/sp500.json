@@ -1,5 +1,5 @@
 {
-  "update": 1639606266526,
+  "update": 1639667466894,
   "companies": [
     {
       "ticker": "MMM",
@@ -803,7 +803,7 @@
     },
     {
       "ticker": "DRE",
-      "name": "Duke Realty Corp",
+      "name": "Duke Realty",
       "sector": "Real Estate"
     },
     {
@@ -823,7 +823,7 @@
     },
     {
       "ticker": "ETN",
-      "name": "Eaton Corporation",
+      "name": "Eaton",
       "sector": "Industrials"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "update": 1639667756249,
+  "update": 1639668440808,
   "companies": [
     {
       "ticker": "TXG",
@@ -75,7 +75,7 @@
     },
     {
       "ticker": "ANF",
-      "name": "ABERCROMBIE %26 FITCH A"
+      "name": "ABERCROMBIE & FITCH A"
     },
     {
       "ticker": "ABMD",
@@ -327,7 +327,7 @@
     },
     {
       "ticker": "APD",
-      "name": "AIR PRODUCTS %26 CHEMICALS INC"
+      "name": "AIR PRODUCTS & CHEMICALS INC"
     },
     {
       "ticker": "ATSG",
@@ -403,7 +403,7 @@
     },
     {
       "ticker": "ALEX",
-      "name": "ALEXANDER %26 BALDWIN INC."
+      "name": "ALEXANDER & BALDWIN INC."
     },
     {
       "ticker": "ALX",
@@ -511,7 +511,7 @@
     },
     {
       "ticker": "AOSL",
-      "name": "ALPHA %26 OMEGA SEMICONDUCTOR"
+      "name": "ALPHA & OMEGA SEMICONDUCTOR"
     },
     {
       "ticker": "GOOGL",
@@ -639,7 +639,7 @@
     },
     {
       "ticker": "AXL",
-      "name": "AMERICAN AXLE %26 MFG HOLDINGS"
+      "name": "AMERICAN AXLE & MFG HOLDINGS"
     },
     {
       "ticker": "ACC",
@@ -1351,7 +1351,7 @@
     },
     {
       "ticker": "T",
-      "name": "AT%26T"
+      "name": "AT&T"
     },
     {
       "ticker": "AXNX",
@@ -1379,11 +1379,11 @@
     },
     {
       "ticker": "BGS",
-      "name": "B%26G FOODS"
+      "name": "B&G FOODS"
     },
     {
       "ticker": "BW",
-      "name": "BABCOCK %26 WILCOX ENTERPRISES"
+      "name": "BABCOCK & WILCOX ENTERPRISES"
     },
     {
       "ticker": "BMI",
@@ -1443,7 +1443,7 @@
     },
     {
       "ticker": "NTB",
-      "name": "BANK OF N.T. BUTTERFIELD %26 SON"
+      "name": "BANK OF N.T. BUTTERFIELD & SON"
     },
     {
       "ticker": "BK",
@@ -1467,7 +1467,7 @@
     },
     {
       "ticker": "BNED",
-      "name": "BARNES %26 NOBLE EDUCATION"
+      "name": "BARNES & NOBLE EDUCATION"
     },
     {
       "ticker": "B",
@@ -1691,7 +1691,7 @@
     },
     {
       "ticker": "HRB",
-      "name": "BLOCK (H %26 R) NPV"
+      "name": "BLOCK (H & R) NPV"
     },
     {
       "ticker": "BE",
@@ -1799,7 +1799,7 @@
     },
     {
       "ticker": "BHR",
-      "name": "BRAEMAR HOTELS %26 RESORTS"
+      "name": "BRAEMAR HOTELS & RESORTS"
     },
     {
       "ticker": "BDN",
@@ -1907,7 +1907,7 @@
     },
     {
       "ticker": "BRO",
-      "name": "BROWN %26 BROWN"
+      "name": "BROWN & BROWN"
     },
     {
       "ticker": "BF.B",
@@ -1999,7 +1999,7 @@
     },
     {
       "ticker": "COG",
-      "name": "CABOT OIL %26 GAS"
+      "name": "CABOT OIL & GAS"
     },
     {
       "ticker": "CACI",
@@ -2343,11 +2343,11 @@
     },
     {
       "ticker": "CENTA",
-      "name": "CENTRAL GARDEN %26  PET CO  A"
+      "name": "CENTRAL GARDEN &  PET CO  A"
     },
     {
       "ticker": "CENT",
-      "name": "CENTRAL GARDEN %26 PET"
+      "name": "CENTRAL GARDEN & PET"
     },
     {
       "ticker": "CPF",
@@ -2523,7 +2523,7 @@
     },
     {
       "ticker": "CHD",
-      "name": "CHURCH %26 DWIGHT"
+      "name": "CHURCH & DWIGHT"
     },
     {
       "ticker": "CHDN",
@@ -2586,7 +2586,7 @@
       "name": "CITI TRENDS"
     },
     {
-      "ticker": "%20C%20",
+      "ticker": " C ",
       "name": "CITIGROUP"
     },
     {
@@ -2595,7 +2595,7 @@
     },
     {
       "ticker": "CZNC",
-      "name": "CITIZENS %26 NORTHERN"
+      "name": "CITIZENS & NORTHERN"
     },
     {
       "ticker": "CFG",
@@ -2763,7 +2763,7 @@
     },
     {
       "ticker": "CNS",
-      "name": "COHEN %26 STEERS"
+      "name": "COHEN & STEERS"
     },
     {
       "ticker": "COHR",
@@ -2863,7 +2863,7 @@
     },
     {
       "ticker": "CPSI",
-      "name": "COMPUTER PROGRAMS %26 SYSTEMS"
+      "name": "COMPUTER PROGRAMS & SYSTEMS"
     },
     {
       "ticker": "CIX",
@@ -2939,7 +2939,7 @@
     },
     {
       "ticker": "MCF",
-      "name": "CONTANGO OIL %26 GAS CO INC"
+      "name": "CONTANGO OIL & GAS CO INC"
     },
     {
       "ticker": "CLR",
@@ -3183,7 +3183,7 @@
     },
     {
       "ticker": "CWK",
-      "name": "CUSHMAN %26 WAKEFIELD"
+      "name": "CUSHMAN & WAKEFIELD"
     },
     {
       "ticker": "CTOS",
@@ -3471,7 +3471,7 @@
     },
     {
       "ticker": "PLAY",
-      "name": "DAVE %26 BUSTERS ENTERTAINMENT"
+      "name": "DAVE & BUSTERS ENTERTAINMENT"
     },
     {
       "ticker": "DVA",
@@ -3487,7 +3487,7 @@
     },
     {
       "ticker": "DE",
-      "name": "DEERE %26 CO"
+      "name": "DEERE & CO"
     },
     {
       "ticker": "UFS",
@@ -3503,7 +3503,7 @@
     },
     {
       "ticker": "RRD",
-      "name": "DONNELLEY (RR) %26 SONS"
+      "name": "DONNELLEY (RR) & SONS"
     },
     {
       "ticker": "DFIN",
@@ -4103,7 +4103,7 @@
     },
     {
       "ticker": "XOG",
-      "name": "EXTRACTION OIL %26 GAS"
+      "name": "EXTRACTION OIL & GAS"
     },
     {
       "ticker": "EXTR",
@@ -4211,7 +4211,7 @@
     },
     {
       "ticker": "FDBC",
-      "name": "FIDELITY D%26D BANCORP INC."
+      "name": "FIDELITY D&D BANCORP INC."
     },
     {
       "ticker": "FIS",
@@ -4387,7 +4387,7 @@
     },
     {
       "ticker": "FND",
-      "name": "FLOOR %26 DECOR HOLDINGS"
+      "name": "FLOOR & DECOR HOLDINGS"
     },
     {
       "ticker": "FLO",
@@ -4475,7 +4475,7 @@
     },
     {
       "ticker": "FBHS",
-      "name": "FORTUNE BRANDS HOME %26 SECURITY"
+      "name": "FORTUNE BRANDS HOME & SECURITY"
     },
     {
       "ticker": "FWRD",
@@ -4675,7 +4675,7 @@
     },
     {
       "ticker": "GNK",
-      "name": "GENCO SHIPPING %26 TRADING LTD."
+      "name": "GENCO SHIPPING & TRADING LTD."
     },
     {
       "ticker": "GNRC",
@@ -4710,7 +4710,7 @@
       "name": "GENIUS BRANDS INTL INC"
     },
     {
-      "ticker": "%20G%20",
+      "ticker": " G ",
       "name": "GENPACT"
     },
     {
@@ -4815,7 +4815,7 @@
     },
     {
       "ticker": "GLPI",
-      "name": "GAMING %26 LEISURE PROPERTIES"
+      "name": "GAMING & LEISURE PROPERTIES"
     },
     {
       "ticker": "GAN",
@@ -4911,7 +4911,7 @@
     },
     {
       "ticker": "GLDD",
-      "name": "GREAT LAKES DREDGE %26 DOCK"
+      "name": "GREAT LAKES DREDGE & DOCK"
     },
     {
       "ticker": "GSBC",
@@ -4943,7 +4943,7 @@
     },
     {
       "ticker": "GHL",
-      "name": "GREENHILL %26 CO"
+      "name": "GREENHILL & CO"
     },
     {
       "ticker": "GNLN",
@@ -5039,7 +5039,7 @@
     },
     {
       "ticker": "GT",
-      "name": "GOODYEAR TIRE %26 RUBBER"
+      "name": "GOODYEAR TIRE & RUBBER"
     },
     {
       "ticker": "HAL",
@@ -5219,7 +5219,7 @@
     },
     {
       "ticker": "HEES",
-      "name": "H%26E EQUIPMENT SERVICES"
+      "name": "H&E EQUIPMENT SERVICES"
     },
     {
       "ticker": "HAE",
@@ -5399,7 +5399,7 @@
     },
     {
       "ticker": "HSII",
-      "name": "HEIDRICK %26 STRUGGLES"
+      "name": "HEIDRICK & STRUGGLES"
     },
     {
       "ticker": "HELE",
@@ -5415,7 +5415,7 @@
     },
     {
       "ticker": "HP",
-      "name": "HELMERICH %26 PAYNE"
+      "name": "HELMERICH & PAYNE"
     },
     {
       "ticker": "HMTV",
@@ -5423,7 +5423,7 @@
     },
     {
       "ticker": "JKHY",
-      "name": "HENRY (JACK) %26 ASSOCIATES"
+      "name": "HENRY (JACK) & ASSOCIATES"
     },
     {
       "ticker": "HSIC",
@@ -5603,7 +5603,7 @@
     },
     {
       "ticker": "HST",
-      "name": "HOST HOTELS %26 RESORTS"
+      "name": "HOST HOTELS & RESORTS"
     },
     {
       "ticker": "TWNK",
@@ -5851,7 +5851,7 @@
     },
     {
       "ticker": "IFF",
-      "name": "INTL FLAVOURS %26 FRAGRANCES"
+      "name": "INTL FLAVOURS & FRAGRANCES"
     },
     {
       "ticker": "ITCI",
@@ -6027,7 +6027,7 @@
     },
     {
       "ticker": "JNJ",
-      "name": "JOHNSON %26 JOHNSON"
+      "name": "JOHNSON & JOHNSON"
     },
     {
       "ticker": "JCI",
@@ -6051,7 +6051,7 @@
     },
     {
       "ticker": "JPM",
-      "name": "JPMORGAN CHASE %26 CO"
+      "name": "JPMORGAN CHASE & CO"
     },
     {
       "ticker": "JNPR",
@@ -6155,7 +6155,7 @@
     },
     {
       "ticker": "JJSF",
-      "name": "J %26 J SNACK FOODS"
+      "name": "J & J SNACK FOODS"
     },
     {
       "ticker": "SJM",
@@ -6215,7 +6215,7 @@
     },
     {
       "ticker": "KKR",
-      "name": "KKR %26 CO INC"
+      "name": "KKR & CO INC"
     },
     {
       "ticker": "KREF",
@@ -6275,7 +6275,7 @@
     },
     {
       "ticker": "KTOS",
-      "name": "KRATOS DEFENSE %26 SECURITY SOLUTIONS"
+      "name": "KRATOS DEFENSE & SECURITY SOLUTIONS"
     },
     {
       "ticker": "KR",
@@ -6431,7 +6431,7 @@
     },
     {
       "ticker": "LEG",
-      "name": "LEGGETT %26 PLATT"
+      "name": "LEGGETT & PLATT"
     },
     {
       "ticker": "LDOS",
@@ -6639,7 +6639,7 @@
     },
     {
       "ticker": "LORL",
-      "name": "LORAL SPACE %26 COMMUNICATIONS"
+      "name": "LORAL SPACE & COMMUNICATIONS"
     },
     {
       "ticker": "RIDE",
@@ -6711,11 +6711,11 @@
     },
     {
       "ticker": "MTB",
-      "name": "M%26T BANK"
+      "name": "M&T BANK"
     },
     {
       "ticker": "MHO",
-      "name": "M%2FI HOMES"
+      "name": "M/I HOMES"
     },
     {
       "ticker": "MCBC",
@@ -6739,7 +6739,7 @@
     },
     {
       "ticker": "LLY",
-      "name": "LILLY (ELI) %26 CO"
+      "name": "LILLY (ELI) & CO"
     },
     {
       "ticker": "LLNW",
@@ -6815,7 +6815,7 @@
     },
     {
       "ticker": "MMI",
-      "name": "MARCUS %26 MILLICHAP"
+      "name": "MARCUS & MILLICHAP"
     },
     {
       "ticker": "MCS",
@@ -6859,7 +6859,7 @@
     },
     {
       "ticker": "MMC",
-      "name": "MARSH %26 MCLENNAN"
+      "name": "MARSH & MCLENNAN"
     },
     {
       "ticker": "MRTN",
@@ -6963,7 +6963,7 @@
     },
     {
       "ticker": "MGY",
-      "name": "MAGNOLIA OIL %26 GAS CORPORATION (A)"
+      "name": "MAGNOLIA OIL & GAS CORPORATION (A)"
     },
     {
       "ticker": "MHLD",
@@ -7031,7 +7031,7 @@
     },
     {
       "ticker": "MRK",
-      "name": "MERCK %26 CO"
+      "name": "MERCK & CO"
     },
     {
       "ticker": "MCY",
@@ -7147,7 +7147,7 @@
     },
     {
       "ticker": "MKC",
-      "name": "MCCORMICK %26 CO"
+      "name": "MCCORMICK & CO"
     },
     {
       "ticker": "MCD",
@@ -7231,7 +7231,7 @@
     },
     {
       "ticker": "MC",
-      "name": "MOELIS %26 COMPANY"
+      "name": "MOELIS & COMPANY"
     },
     {
       "ticker": "MHK",
@@ -7907,7 +7907,7 @@
     },
     {
       "ticker": "NDLS",
-      "name": "NOODLES %26 COMPANY"
+      "name": "NOODLES & COMPANY"
     },
     {
       "ticker": "NAT",
@@ -8163,7 +8163,7 @@
     },
     {
       "ticker": "OMI",
-      "name": "OWENS %26 MINOR"
+      "name": "OWENS & MINOR"
     },
     {
       "ticker": "OC",
@@ -8255,7 +8255,7 @@
     },
     {
       "ticker": "PK",
-      "name": "PARK HOTELS %26 RESORTS"
+      "name": "PARK HOTELS & RESORTS"
     },
     {
       "ticker": "ORMP",
@@ -8643,7 +8643,7 @@
     },
     {
       "ticker": "PCG",
-      "name": "PG %26 E CORP."
+      "name": "PG & E CORP."
     },
     {
       "ticker": "PGTI",
@@ -8735,7 +8735,7 @@
     },
     {
       "ticker": "PG",
-      "name": "PROCTER %26 GAMBLE"
+      "name": "PROCTER & GAMBLE"
     },
     {
       "ticker": "PRG",
@@ -9119,7 +9119,7 @@
     },
     {
       "ticker": "RS",
-      "name": "RELIANCE STEEL %26 ALUMINIUM"
+      "name": "RELIANCE STEEL & ALUMINIUM"
     },
     {
       "ticker": "RBNC",
@@ -9231,7 +9231,7 @@
     },
     {
       "ticker": "RMAX",
-      "name": "RE%2FMAX HOLDINGS"
+      "name": "RE/MAX HOLDINGS"
     },
     {
       "ticker": "RC",
@@ -9387,11 +9387,11 @@
     },
     {
       "ticker": "SPGI",
-      "name": "S%26P GLOBAL"
+      "name": "S&P GLOBAL"
     },
     {
       "ticker": "STBA",
-      "name": "S%26T BANCORP"
+      "name": "S&T BANCORP"
     },
     {
       "ticker": "SBRA",
@@ -9639,7 +9639,7 @@
     },
     {
       "ticker": "JBSS",
-      "name": "SANFILIPP %26 SON"
+      "name": "SANFILIPP & SON"
     },
     {
       "ticker": "SGMO",
@@ -9711,7 +9711,7 @@
     },
     {
       "ticker": "BSRR",
-      "name": "SIERRA BANCORP%2FCA"
+      "name": "SIERRA BANCORP/CA"
     },
     {
       "ticker": "SIGA",
@@ -10243,7 +10243,7 @@
     },
     {
       "ticker": "SSNC",
-      "name": "SS%26C TECHNOLOGIES HOLDINGS"
+      "name": "SS&C TECHNOLOGIES HOLDINGS"
     },
     {
       "ticker": "JOE",
@@ -10267,7 +10267,7 @@
     },
     {
       "ticker": "SWK",
-      "name": "STANLEY BLACK %26 DECKER"
+      "name": "STANLEY BLACK & DECKER"
     },
     {
       "ticker": "SBUX",
@@ -10395,7 +10395,7 @@
     },
     {
       "ticker": "RGR",
-      "name": "STURM RUGER %26 CO"
+      "name": "STURM RUGER & CO"
     },
     {
       "ticker": "SMMF",
@@ -10623,7 +10623,7 @@
     },
     {
       "ticker": "TDS",
-      "name": "TELEPHONE %26 DATA SYSTEMS"
+      "name": "TELEPHONE & DATA SYSTEMS"
     },
     {
       "ticker": "TELL",
@@ -10895,7 +10895,7 @@
     },
     {
       "ticker": "USLM",
-      "name": "U.S. LIME %26 MINERALS"
+      "name": "U.S. LIME & MINERALS"
     },
     {
       "ticker": "USX",
@@ -11475,7 +11475,7 @@
     },
     {
       "ticker": "WTI",
-      "name": "W%26T OFFSHORE"
+      "name": "W&T OFFSHORE"
     },
     {
       "ticker": "WPC",
@@ -11495,7 +11495,7 @@
     },
     {
       "ticker": "WD",
-      "name": "WALKER %26 DUNLOP"
+      "name": "WALKER & DUNLOP"
     },
     {
       "ticker": "WMT",
@@ -11667,7 +11667,7 @@
     },
     {
       "ticker": "JW.A",
-      "name": "WILEY (JOHN) %26 SONS - CL A"
+      "name": "WILEY (JOHN) & SONS - CL A"
     },
     {
       "ticker": "WLDN",
@@ -11767,7 +11767,7 @@
     },
     {
       "ticker": "WFC",
-      "name": "WELLS FARGO %26 COMPANY"
+      "name": "WELLS FARGO & COMPANY"
     },
     {
       "ticker": "WELL",
@@ -11955,7 +11955,7 @@
     },
     {
       "ticker": "WH",
-      "name": "WYNDHAM HOTELS %26 RESORTS"
+      "name": "WYNDHAM HOTELS & RESORTS"
     },
     {
       "ticker": "WYNN",
@@ -11975,7 +11975,7 @@
     },
     {
       "ticker": "XHR",
-      "name": "XENIA HOTELS %26 RESORTS"
+      "name": "XENIA HOTELS & RESORTS"
     },
     {
       "ticker": "XRX",

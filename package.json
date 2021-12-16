@@ -11,8 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "htmlparser2": "^7.2.0",
-    "node-fetch": "^2.6.6",
-    "puppeteer": "^13.0.0"
+    "pdf2json": "^2.0.0",
+    "request-promise-native": "^1.0.9",
+    "webdriverio": "^7.16.12"
   }
 }

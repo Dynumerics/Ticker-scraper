@@ -1,5 +1,5 @@
 {
-  "update": 1640470254016,
+  "update": 1640556753949,
   "companies": [
     {
       "ticker": "MMM",
@@ -952,6 +952,11 @@
       "sector": "Information Technology"
     },
     {
+      "ticker": "FDS",
+      "name": "FactSet",
+      "sector": "Financials"
+    },
+    {
       "ticker": "FAST",
       "name": "Fastenal",
       "sector": "Industrials"
@@ -1115,11 +1120,6 @@
       "ticker": "HAL",
       "name": "Halliburton",
       "sector": "Energy"
-    },
-    {
-      "ticker": "HBI",
-      "name": "Hanesbrands",
-      "sector": "Consumer Discretionary"
     },
     {
       "ticker": "HIG",
@@ -1419,11 +1419,6 @@
     {
       "ticker": "LVS",
       "name": "Las Vegas Sands",
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "ticker": "LEG",
-      "name": "Leggett & Platt",
       "sector": "Consumer Discretionary"
     },
     {
@@ -2092,6 +2087,11 @@
       "sector": "Materials"
     },
     {
+      "ticker": "SBNY",
+      "name": "Signature Bank",
+      "sector": "Financials"
+    },
+    {
       "ticker": "SPG",
       "name": "Simon Property Group",
       "sector": "Real Estate"
@@ -2105,6 +2105,11 @@
       "ticker": "SNA",
       "name": "Snap-on",
       "sector": "Industrials"
+    },
+    {
+      "ticker": "SEDG",
+      "name": "SolarEdge",
+      "sector": "Information Technology"
     },
     {
       "ticker": "SO",
@@ -2449,11 +2454,6 @@
     {
       "ticker": "WDC",
       "name": "Western Digital",
-      "sector": "Information Technology"
-    },
-    {
-      "ticker": "WU",
-      "name": "Western Union",
       "sector": "Information Technology"
     },
     {

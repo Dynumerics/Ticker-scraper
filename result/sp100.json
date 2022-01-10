@@ -1,5 +1,5 @@
 {
-  "update": 1641766285034,
+  "update": 1641852656121,
   "companies": [
     {
       "ticker": "AAPL",
@@ -13,7 +13,7 @@
     },
     {
       "ticker": "ABT",
-      "name": "Abbott Laboratories",
+      "name": "Abbott",
       "sector": "Health Care"
     },
     {
@@ -183,7 +183,7 @@
     },
     {
       "ticker": "EMR",
-      "name": "Emerson Electric",
+      "name": "Emerson",
       "sector": "Industrials"
     },
     {

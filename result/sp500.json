@@ -1,14 +1,14 @@
 {
-  "update": 1641766285732,
+  "update": 1641852656392,
   "companies": [
     {
       "ticker": "MMM",
-      "name": "3M Company",
+      "name": "3M",
       "sector": "Industrials"
     },
     {
       "ticker": "ABT",
-      "name": "Abbott Laboratories",
+      "name": "Abbott",
       "sector": "Health Care"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "update": 1641852656121,
+  "update": 1641939081790,
   "companies": [
     {
       "ticker": "AAPL",
@@ -43,7 +43,7 @@
     },
     {
       "ticker": "AMZN",
-      "name": "Amazon.com",
+      "name": "Amazon",
       "sector": "Consumer Discretionary"
     },
     {
@@ -143,7 +143,7 @@
     },
     {
       "ticker": "CSCO",
-      "name": "Cisco Systems",
+      "name": "Cisco",
       "sector": "Information Technology"
     },
     {
@@ -213,17 +213,17 @@
     },
     {
       "ticker": "GE",
-      "name": "General Electric",
+      "name": "GE",
       "sector": "Industrials"
     },
     {
       "ticker": "GILD",
-      "name": "Gilead Sciences",
+      "name": "Gilead",
       "sector": "Health Care"
     },
     {
       "ticker": "GM",
-      "name": "General Motors",
+      "name": "GM",
       "sector": "Consumer Discretionary"
     },
     {
@@ -423,7 +423,7 @@
     },
     {
       "ticker": "SPG",
-      "name": "Simon Property Group",
+      "name": "Simon",
       "sector": "Real Estate"
     },
     {
@@ -443,7 +443,7 @@
     },
     {
       "ticker": "TMUS",
-      "name": "T-Mobile US",
+      "name": "T-Mobile",
       "sector": "Communication Services"
     },
     {

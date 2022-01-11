@@ -1,9 +1,14 @@
 {
-  "update": 1641852656392,
+  "update": 1641939082354,
   "companies": [
     {
       "ticker": "MMM",
       "name": "3M",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "AOS",
+      "name": "A. O. Smith",
       "sector": "Industrials"
     },
     {
@@ -37,18 +42,13 @@
       "sector": "Information Technology"
     },
     {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices",
-      "sector": "Information Technology"
-    },
-    {
       "ticker": "AAP",
       "name": "Advance Auto Parts",
       "sector": "Consumer Discretionary"
     },
     {
       "ticker": "AES",
-      "name": "AES Corp",
+      "name": "AES",
       "sector": "Utilities"
     },
     {
@@ -62,13 +62,18 @@
       "sector": "Health Care"
     },
     {
+      "ticker": "AIG",
+      "name": "AIG",
+      "sector": "Financials"
+    },
+    {
       "ticker": "APD",
-      "name": "Air Products & Chemicals",
+      "name": "Air Products",
       "sector": "Materials"
     },
     {
       "ticker": "AKAM",
-      "name": "Akamai Technologies",
+      "name": "Akamai",
       "sector": "Information Technology"
     },
     {
@@ -78,7 +83,7 @@
     },
     {
       "ticker": "ALB",
-      "name": "Albemarle Corporation",
+      "name": "Albemarle",
       "sector": "Materials"
     },
     {
@@ -103,7 +108,7 @@
     },
     {
       "ticker": "ALL",
-      "name": "Allstate Corp",
+      "name": "Allstate",
       "sector": "Financials"
     },
     {
@@ -118,7 +123,7 @@
     },
     {
       "ticker": "MO",
-      "name": "Altria Group",
+      "name": "Altria",
       "sector": "Consumer Staples"
     },
     {
@@ -132,8 +137,13 @@
       "sector": "Materials"
     },
     {
+      "ticker": "AMD",
+      "name": "AMD",
+      "sector": "Information Technology"
+    },
+    {
       "ticker": "AEE",
-      "name": "Ameren Corp",
+      "name": "Ameren",
       "sector": "Utilities"
     },
     {
@@ -152,18 +162,13 @@
       "sector": "Financials"
     },
     {
-      "ticker": "AIG",
-      "name": "American International Group",
-      "sector": "Financials"
-    },
-    {
       "ticker": "AMT",
       "name": "American Tower",
       "sector": "Real Estate"
     },
     {
       "ticker": "AWK",
-      "name": "American Water Works",
+      "name": "American Water",
       "sector": "Utilities"
     },
     {
@@ -212,11 +217,6 @@
       "sector": "Financials"
     },
     {
-      "ticker": "AOS",
-      "name": "A. O. Smith",
-      "sector": "Industrials"
-    },
-    {
       "ticker": "APA",
       "name": "APA Corporation",
       "sector": "Energy"
@@ -243,7 +243,7 @@
     },
     {
       "ticker": "ANET",
-      "name": "Arista Networks",
+      "name": "Arista",
       "sector": "Information Technology"
     },
     {
@@ -298,7 +298,7 @@
     },
     {
       "ticker": "BLL",
-      "name": "Ball Corp",
+      "name": "Ball",
       "sector": "Materials"
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "ticker": "BIO",
-      "name": "Bio-Rad Laboratories",
+      "name": "Bio-Rad",
       "sector": "Health Care"
     },
     {
@@ -393,7 +393,7 @@
     },
     {
       "ticker": "BR",
-      "name": "Broadridge Financial Solutions",
+      "name": "Broadridge",
       "sector": "Information Technology"
     },
     {
@@ -553,12 +553,12 @@
     },
     {
       "ticker": "CTAS",
-      "name": "Cintas Corporation",
+      "name": "Cintas",
       "sector": "Industrials"
     },
     {
       "ticker": "CSCO",
-      "name": "Cisco Systems",
+      "name": "Cisco",
       "sector": "Information Technology"
     },
     {
@@ -573,7 +573,7 @@
     },
     {
       "ticker": "CTXS",
-      "name": "Citrix Systems",
+      "name": "Citrix",
       "sector": "Information Technology"
     },
     {
@@ -628,7 +628,7 @@
     },
     {
       "ticker": "ED",
-      "name": "Consolidated Edison",
+      "name": "Con Edison",
       "sector": "Utilities"
     },
     {
@@ -738,7 +738,7 @@
     },
     {
       "ticker": "DLR",
-      "name": "Digital Realty Trust",
+      "name": "Digital Realty",
       "sector": "Real Estate"
     },
     {
@@ -853,7 +853,7 @@
     },
     {
       "ticker": "EMR",
-      "name": "Emerson Electric",
+      "name": "Emerson",
       "sector": "Industrials"
     },
     {
@@ -1922,14 +1922,14 @@
       "sector": "Financials"
     },
     {
+      "ticker": "PEG",
+      "name": "PSEG",
+      "sector": "Utilities"
+    },
+    {
       "ticker": "PTC",
       "name": "PTC",
       "sector": "Information Technology"
-    },
-    {
-      "ticker": "PEG",
-      "name": "Public Service Enterprise Group",
-      "sector": "Utilities"
     },
     {
       "ticker": "PSA",
@@ -2477,7 +2477,7 @@
       "sector": "Energy"
     },
     {
-      "ticker": "WLTW",
+      "ticker": "WTW",
       "name": "Willis Towers Watson",
       "sector": "Financials"
     },

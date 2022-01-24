@@ -1,5 +1,5 @@
 {
-  "update": 1642975842853,
+  "update": 1643062291828,
   "companies": [
     {
       "ticker": "MMM",
@@ -508,7 +508,7 @@
     },
     {
       "ticker": "CRL",
-      "name": "Charles River Laboratories",
+      "name": "Charles River",
       "sector": "Health Care"
     },
     {
@@ -638,7 +638,7 @@
     },
     {
       "ticker": "COO",
-      "name": "The Cooper Companies",
+      "name": "CooperCompanies",
       "sector": "Health Care"
     },
     {
@@ -1023,7 +1023,7 @@
     },
     {
       "ticker": "FBHS",
-      "name": "Fortune Brands Home & Security",
+      "name": "Fortune Brands",
       "sector": "Industrials"
     },
     {

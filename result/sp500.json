@@ -1,5 +1,5 @@
 {
-  "update": 1643062291828,
+  "update": 1643148634056,
   "companies": [
     {
       "ticker": "MMM",
@@ -37,8 +37,18 @@
       "sector": "Communication Services"
     },
     {
+      "ticker": "ADM",
+      "name": "ADM",
+      "sector": "Consumer Staples"
+    },
+    {
       "ticker": "ADBE",
       "name": "Adobe",
+      "sector": "Information Technology"
+    },
+    {
+      "ticker": "ADP",
+      "name": "ADP",
       "sector": "Information Technology"
     },
     {
@@ -93,7 +103,7 @@
     },
     {
       "ticker": "ALGN",
-      "name": "Align Technology",
+      "name": "Align",
       "sector": "Health Care"
     },
     {
@@ -237,11 +247,6 @@
       "sector": "Consumer Discretionary"
     },
     {
-      "ticker": "ADM",
-      "name": "ADM",
-      "sector": "Consumer Staples"
-    },
-    {
       "ticker": "ANET",
       "name": "Arista",
       "sector": "Information Technology"
@@ -269,11 +274,6 @@
     {
       "ticker": "ADSK",
       "name": "Autodesk",
-      "sector": "Information Technology"
-    },
-    {
-      "ticker": "ADP",
-      "name": "Automatic Data Processing",
       "sector": "Information Technology"
     },
     {
@@ -313,7 +313,7 @@
     },
     {
       "ticker": "BAX",
-      "name": "Baxter International",
+      "name": "Baxter",
       "sector": "Health Care"
     },
     {
@@ -413,7 +413,7 @@
     },
     {
       "ticker": "CDNS",
-      "name": "Cadence Design Systems",
+      "name": "Cadence",
       "sector": "Information Technology"
     },
     {
@@ -423,7 +423,7 @@
     },
     {
       "ticker": "CPB",
-      "name": "Campbell Soup",
+      "name": "Campbell's",
       "sector": "Consumer Staples"
     },
     {
@@ -463,7 +463,7 @@
     },
     {
       "ticker": "CBOE",
-      "name": "Cboe Global Markets",
+      "name": "Cboe",
       "sector": "Financials"
     },
     {
@@ -598,7 +598,7 @@
     },
     {
       "ticker": "CTSH",
-      "name": "Cognizant Technology Solutions",
+      "name": "Cognizant",
       "sector": "Information Technology"
     },
     {
@@ -698,7 +698,7 @@
     },
     {
       "ticker": "DRI",
-      "name": "Darden Restaurants",
+      "name": "Darden",
       "sector": "Consumer Discretionary"
     },
     {
@@ -733,7 +733,7 @@
     },
     {
       "ticker": "FANG",
-      "name": "Diamondback Energy",
+      "name": "Diamondback",
       "sector": "Energy"
     },
     {
@@ -743,7 +743,7 @@
     },
     {
       "ticker": "DFS",
-      "name": "Discover Financial Services",
+      "name": "Discover",
       "sector": "Financials"
     },
     {
@@ -758,7 +758,7 @@
     },
     {
       "ticker": "DISH",
-      "name": "Dish Network",
+      "name": "Dish",
       "sector": "Communication Services"
     },
     {
@@ -778,12 +778,12 @@
     },
     {
       "ticker": "DPZ",
-      "name": "Domino's Pizza",
+      "name": "Domino's",
       "sector": "Consumer Discretionary"
     },
     {
       "ticker": "DOV",
-      "name": "Dover Corporation",
+      "name": "Dover",
       "sector": "Industrials"
     },
     {
@@ -793,7 +793,7 @@
     },
     {
       "ticker": "DTE",
-      "name": "DTE Energy",
+      "name": "DTE",
       "sector": "Utilities"
     },
     {
@@ -818,7 +818,7 @@
     },
     {
       "ticker": "EMN",
-      "name": "Eastman Chemical",
+      "name": "Eastman",
       "sector": "Materials"
     },
     {
@@ -858,7 +858,7 @@
     },
     {
       "ticker": "ENPH",
-      "name": "Enphase Energy",
+      "name": "Enphase",
       "sector": "Information Technology"
     },
     {
@@ -873,7 +873,7 @@
     },
     {
       "ticker": "EPAM",
-      "name": "EPAM Systems",
+      "name": "EPAM",
       "sector": "Information Technology"
     },
     {
@@ -893,7 +893,7 @@
     },
     {
       "ticker": "ESS",
-      "name": "Essex Property Trust",
+      "name": "Essex",
       "sector": "Real Estate"
     },
     {
@@ -907,19 +907,19 @@
       "sector": "Consumer Discretionary"
     },
     {
+      "ticker": "RE",
+      "name": "Everest",
+      "sector": "Financials"
+    },
+    {
       "ticker": "EVRG",
       "name": "Evergy",
       "sector": "Utilities"
     },
     {
       "ticker": "ES",
-      "name": "Eversource Energy",
+      "name": "Eversource",
       "sector": "Utilities"
-    },
-    {
-      "ticker": "RE",
-      "name": "Everest Re",
-      "sector": "Financials"
     },
     {
       "ticker": "EXC",

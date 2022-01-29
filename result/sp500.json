@@ -1,5 +1,5 @@
 {
-  "update": 1643407829277,
+  "update": 1643494213095,
   "companies": [
     {
       "ticker": "MMM",
@@ -963,7 +963,7 @@
     },
     {
       "ticker": "FRT",
-      "name": "Federal Realty Investment Trust",
+      "name": "Federal Realty",
       "sector": "Real Estate"
     },
     {
@@ -972,13 +972,13 @@
       "sector": "Industrials"
     },
     {
-      "ticker": "FIS",
-      "name": "Fidelity National Information Services",
-      "sector": "Information Technology"
-    },
-    {
       "ticker": "FITB",
       "name": "Fifth Third Bancorp",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "FRC",
+      "name": "First Republic",
       "sector": "Financials"
     },
     {
@@ -987,9 +987,9 @@
       "sector": "Utilities"
     },
     {
-      "ticker": "FRC",
-      "name": "First Republic Bank",
-      "sector": "Financials"
+      "ticker": "FIS",
+      "name": "FIS",
+      "sector": "Information Technology"
     },
     {
       "ticker": "FISV",
@@ -1003,7 +1003,7 @@
     },
     {
       "ticker": "FMC",
-      "name": "FMC Corporation",
+      "name": "FMC",
       "sector": "Materials"
     },
     {
@@ -1062,8 +1062,13 @@
       "sector": "Information Technology"
     },
     {
+      "ticker": "GE",
+      "name": "GE",
+      "sector": "Industrials"
+    },
+    {
       "ticker": "GNRC",
-      "name": "Generac Holdings",
+      "name": "Generac",
       "sector": "Industrials"
     },
     {
@@ -1072,19 +1077,9 @@
       "sector": "Industrials"
     },
     {
-      "ticker": "GE",
-      "name": "General Electric",
-      "sector": "Industrials"
-    },
-    {
       "ticker": "GIS",
       "name": "General Mills",
       "sector": "Consumer Staples"
-    },
-    {
-      "ticker": "GM",
-      "name": "General Motors",
-      "sector": "Consumer Discretionary"
     },
     {
       "ticker": "GPC",
@@ -1107,13 +1102,18 @@
       "sector": "Information Technology"
     },
     {
+      "ticker": "GM",
+      "name": "GM",
+      "sector": "Consumer Discretionary"
+    },
+    {
       "ticker": "GS",
       "name": "Goldman Sachs",
       "sector": "Financials"
     },
     {
       "ticker": "GWW",
-      "name": "W. W. Grainger",
+      "name": "Grainger",
       "sector": "Industrials"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "update": 1644012630256,
+  "update": 1644099217162,
   "companies": [
     {
       "ticker": "AAPL",
@@ -198,7 +198,7 @@
     },
     {
       "ticker": "FB",
-      "name": "Meta Platforms",
+      "name": "Meta",
       "sector": "Communication Services"
     },
     {
@@ -288,7 +288,7 @@
     },
     {
       "ticker": "LLY",
-      "name": "Eli Lilly",
+      "name": "Lilly",
       "sector": "Health Care"
     },
     {

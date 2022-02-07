@@ -1,5 +1,5 @@
 {
-  "update": 1644185433700,
+  "update": 1644271859899,
   "companies": [
     {
       "ticker": "MMM",
@@ -637,6 +637,11 @@
       "sector": "Consumer Staples"
     },
     {
+      "ticker": "CEG",
+      "name": "Constellation Energy",
+      "sector": "Utilities"
+    },
+    {
       "ticker": "COO",
       "name": "CooperCompanies",
       "sector": "Health Care"
@@ -1045,11 +1050,6 @@
       "ticker": "FCX",
       "name": "Freeport-McMoRan",
       "sector": "Materials"
-    },
-    {
-      "ticker": "GPS",
-      "name": "Gap",
-      "sector": "Consumer Discretionary"
     },
     {
       "ticker": "GRMN",

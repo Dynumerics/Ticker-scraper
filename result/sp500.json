@@ -1,5 +1,5 @@
 {
-  "update": 1644790272560,
+  "update": 1644963071977,
   "companies": [
     {
       "ticker": "MMM",
@@ -1558,7 +1558,7 @@
     },
     {
       "ticker": "FB",
-      "name": "Meta Platforms",
+      "name": "Meta",
       "sector": "Communication Services"
     },
     {
@@ -1573,17 +1573,17 @@
     },
     {
       "ticker": "MGM",
-      "name": "MGM Resorts International",
+      "name": "MGM Resorts",
       "sector": "Consumer Discretionary"
     },
     {
       "ticker": "MCHP",
-      "name": "Microchip Technology",
+      "name": "Microchip",
       "sector": "Information Technology"
     },
     {
       "ticker": "MU",
-      "name": "Micron Technology",
+      "name": "Micron",
       "sector": "Information Technology"
     },
     {
@@ -1705,6 +1705,11 @@
       "ticker": "NI",
       "name": "NiSource",
       "sector": "Utilities"
+    },
+    {
+      "ticker": "NDSN",
+      "name": "Nordson",
+      "sector": "Industrials"
     },
     {
       "ticker": "NSC",
@@ -2490,11 +2495,6 @@
       "ticker": "XEL",
       "name": "Xcel Energy",
       "sector": "Utilities"
-    },
-    {
-      "ticker": "XLNX",
-      "name": "Xilinx",
-      "sector": "Information Technology"
     },
     {
       "ticker": "XYL",

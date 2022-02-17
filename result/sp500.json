@@ -1,5 +1,5 @@
 {
-  "update": 1645049432565,
+  "update": 1645135876031,
   "companies": [
     {
       "ticker": "MMM",
@@ -1810,6 +1810,11 @@
       "ticker": "PKG",
       "name": "Packaging Corporation of America",
       "sector": "Materials"
+    },
+    {
+      "ticker": "PARA",
+      "name": "Paramount Global",
+      "sector": "Communication Services"
     },
     {
       "ticker": "PH",

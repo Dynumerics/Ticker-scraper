@@ -1,5 +1,5 @@
 {
-  "update": 1645222324268,
+  "update": 1645308739179,
   "companies": [
     {
       "ticker": "MMM",
@@ -2380,11 +2380,6 @@
       "ticker": "VFC",
       "name": "VF Corporation",
       "sector": "Consumer Discretionary"
-    },
-    {
-      "ticker": "VIAC",
-      "name": "ViacomCBS",
-      "sector": "Communication Services"
     },
     {
       "ticker": "VTRS",

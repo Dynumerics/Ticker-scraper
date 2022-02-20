@@ -1,5 +1,5 @@
 {
-  "update": 1645308739179,
+  "update": 1645395031773,
   "companies": [
     {
       "ticker": "MMM",
@@ -98,7 +98,7 @@
     },
     {
       "ticker": "ARE",
-      "name": "Alexandria Real Estate Equities",
+      "name": "Alexandria",
       "sector": "Real Estate"
     },
     {
@@ -408,7 +408,7 @@
     },
     {
       "ticker": "CHRW",
-      "name": "C. H. Robinson",
+      "name": "C.H. Robinson",
       "sector": "Industrials"
     },
     {
@@ -443,7 +443,7 @@
     },
     {
       "ticker": "CCL",
-      "name": "Carnival Corporation",
+      "name": "Carnival",
       "sector": "Consumer Discretionary"
     },
     {
@@ -764,6 +764,11 @@
     {
       "ticker": "DISH",
       "name": "Dish",
+      "sector": "Communication Services"
+    },
+    {
+      "ticker": "DIS",
+      "name": "Disney",
       "sector": "Communication Services"
     },
     {
@@ -1088,7 +1093,7 @@
     },
     {
       "ticker": "GILD",
-      "name": "Gilead Sciences",
+      "name": "Gilead",
       "sector": "Health Care"
     },
     {
@@ -1148,12 +1153,12 @@
     },
     {
       "ticker": "HSY",
-      "name": "The Hershey Company",
+      "name": "Hershey's",
       "sector": "Consumer Staples"
     },
     {
       "ticker": "HES",
-      "name": "Hess Corporation",
+      "name": "Hess",
       "sector": "Energy"
     },
     {
@@ -1218,7 +1223,7 @@
     },
     {
       "ticker": "IEX",
-      "name": "IDEX Corporation",
+      "name": "IDEX",
       "sector": "Industrials"
     },
     {
@@ -2422,18 +2427,13 @@
       "sector": "Consumer Staples"
     },
     {
-      "ticker": "DIS",
-      "name": "The Walt Disney Company",
-      "sector": "Communication Services"
-    },
-    {
       "ticker": "WM",
       "name": "Waste Management",
       "sector": "Industrials"
     },
     {
       "ticker": "WAT",
-      "name": "Waters Corporation",
+      "name": "Waters",
       "sector": "Health Care"
     },
     {
@@ -2473,7 +2473,7 @@
     },
     {
       "ticker": "WHR",
-      "name": "Whirlpool Corporation",
+      "name": "Whirlpool",
       "sector": "Consumer Discretionary"
     },
     {

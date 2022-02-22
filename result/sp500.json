@@ -1,5 +1,5 @@
 {
-  "update": 1645481476831,
+  "update": 1645567867499,
   "companies": [
     {
       "ticker": "MMM",
@@ -252,11 +252,6 @@
       "sector": "Information Technology"
     },
     {
-      "ticker": "AJG",
-      "name": "Arthur J. Gallagher & Co.",
-      "sector": "Financials"
-    },
-    {
       "ticker": "AIZ",
       "name": "Assurant",
       "sector": "Financials"
@@ -320,6 +315,11 @@
       "ticker": "BDX",
       "name": "Becton Dickinson",
       "sector": "Health Care"
+    },
+    {
+      "ticker": "WRB",
+      "name": "Berkley",
+      "sector": "Financials"
     },
     {
       "ticker": "BRK.B",
@@ -448,7 +448,7 @@
     },
     {
       "ticker": "CARR",
-      "name": "Carrier Global",
+      "name": "Carrier",
       "sector": "Industrials"
     },
     {
@@ -568,7 +568,7 @@
     },
     {
       "ticker": "CFG",
-      "name": "Citizens Financial Group",
+      "name": "Citizens",
       "sector": "Financials"
     },
     {
@@ -693,7 +693,7 @@
     },
     {
       "ticker": "DHI",
-      "name": "D. R. Horton",
+      "name": "D.R. Horton",
       "sector": "Consumer Discretionary"
     },
     {
@@ -728,7 +728,7 @@
     },
     {
       "ticker": "DVN",
-      "name": "Devon Energy",
+      "name": "Devon",
       "sector": "Energy"
     },
     {
@@ -983,7 +983,7 @@
     },
     {
       "ticker": "FITB",
-      "name": "Fifth Third Bancorp",
+      "name": "Fifth Third Bank",
       "sector": "Financials"
     },
     {
@@ -1057,6 +1057,11 @@
       "sector": "Materials"
     },
     {
+      "ticker": "AJG",
+      "name": "Gallagher",
+      "sector": "Financials"
+    },
+    {
       "ticker": "GRMN",
       "name": "Garmin",
       "sector": "Consumer Discretionary"
@@ -1128,7 +1133,7 @@
     },
     {
       "ticker": "HIG",
-      "name": "The Hartford",
+      "name": "Hartford (The)",
       "sector": "Financials"
     },
     {
@@ -1317,24 +1322,19 @@
       "sector": "Real Estate"
     },
     {
+      "ticker": "JBHT",
+      "name": "J.B. Hunt",
+      "sector": "Industrials"
+    },
+    {
       "ticker": "JKHY",
       "name": "Jack Henry & Associates",
       "sector": "Information Technology"
     },
     {
       "ticker": "J",
-      "name": "Jacobs Engineering Group",
+      "name": "Jacobs",
       "sector": "Industrials"
-    },
-    {
-      "ticker": "JBHT",
-      "name": "J. B. Hunt",
-      "sector": "Industrials"
-    },
-    {
-      "ticker": "SJM",
-      "name": "JM Smucker",
-      "sector": "Consumer Staples"
     },
     {
       "ticker": "JNJ",
@@ -1518,7 +1518,7 @@
     },
     {
       "ticker": "MLM",
-      "name": "Martin Marietta Materials",
+      "name": "Martin Marietta",
       "sector": "Materials"
     },
     {
@@ -2108,13 +2108,18 @@
     },
     {
       "ticker": "SPG",
-      "name": "Simon Property Group",
+      "name": "Simon",
       "sector": "Real Estate"
     },
     {
       "ticker": "SWKS",
-      "name": "Skyworks Solutions",
+      "name": "Skyworks",
       "sector": "Information Technology"
+    },
+    {
+      "ticker": "SJM",
+      "name": "Smucker",
+      "sector": "Consumer Staples"
     },
     {
       "ticker": "SNA",
@@ -2405,11 +2410,6 @@
       "ticker": "VMC",
       "name": "Vulcan Materials",
       "sector": "Materials"
-    },
-    {
-      "ticker": "WRB",
-      "name": "W. R. Berkley Corporation",
-      "sector": "Financials"
     },
     {
       "ticker": "WAB",

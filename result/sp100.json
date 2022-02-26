@@ -1,5 +1,5 @@
 {
-  "update": 1645827113882,
+  "update": 1645913433553,
   "companies": [
     {
       "ticker": "AAPL",
@@ -473,7 +473,7 @@
     },
     {
       "ticker": "USB",
-      "name": "U.S. Bancorp",
+      "name": "U.S. Bank",
       "sector": "Financials"
     },
     {

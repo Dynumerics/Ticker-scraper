@@ -1,5 +1,5 @@
 {
-  "update": 1645827114916,
+  "update": 1645913434059,
   "companies": [
     {
       "ticker": "MMM",
@@ -1048,7 +1048,7 @@
     },
     {
       "ticker": "BEN",
-      "name": "Franklin Resources",
+      "name": "Franklin Templeton",
       "sector": "Financials"
     },
     {
@@ -1148,7 +1148,7 @@
     },
     {
       "ticker": "PEAK",
-      "name": "Healthpeak Properties",
+      "name": "Healthpeak",
       "sector": "Real Estate"
     },
     {
@@ -1173,7 +1173,7 @@
     },
     {
       "ticker": "HLT",
-      "name": "Hilton Worldwide",
+      "name": "Hilton",
       "sector": "Consumer Discretionary"
     },
     {
@@ -1217,14 +1217,14 @@
       "sector": "Health Care"
     },
     {
-      "ticker": "HBAN",
-      "name": "Huntington Bancshares",
-      "sector": "Financials"
-    },
-    {
       "ticker": "HII",
       "name": "Huntington Ingalls Industries",
       "sector": "Industrials"
+    },
+    {
+      "ticker": "HBAN",
+      "name": "Huntington National Bank",
+      "sector": "Financials"
     },
     {
       "ticker": "IEX",
@@ -1368,7 +1368,7 @@
     },
     {
       "ticker": "KEYS",
-      "name": "Keysight Technologies",
+      "name": "Keysight",
       "sector": "Information Technology"
     },
     {
@@ -1388,7 +1388,7 @@
     },
     {
       "ticker": "KLAC",
-      "name": "KLA Corporation",
+      "name": "KLA",
       "sector": "Information Technology"
     },
     {
@@ -1403,7 +1403,7 @@
     },
     {
       "ticker": "LHX",
-      "name": "L3Harris Technologies",
+      "name": "L3Harris",
       "sector": "Industrials"
     },
     {
@@ -1438,12 +1438,12 @@
     },
     {
       "ticker": "LLY",
-      "name": "Eli Lilly",
+      "name": "Lilly",
       "sector": "Health Care"
     },
     {
       "ticker": "LNC",
-      "name": "Lincoln National",
+      "name": "Lincoln Financial",
       "sector": "Financials"
     },
     {
@@ -1478,7 +1478,7 @@
     },
     {
       "ticker": "LUMN",
-      "name": "Lumen Technologies",
+      "name": "Lumen",
       "sector": "Communication Services"
     },
     {
@@ -1538,7 +1538,7 @@
     },
     {
       "ticker": "MKC",
-      "name": "McCormick & Company",
+      "name": "McCormick",
       "sector": "Consumer Staples"
     },
     {
@@ -1548,7 +1548,7 @@
     },
     {
       "ticker": "MCK",
-      "name": "McKesson Corporation",
+      "name": "McKesson",
       "sector": "Health Care"
     },
     {
@@ -1643,7 +1643,7 @@
     },
     {
       "ticker": "MOS",
-      "name": "The Mosaic Company",
+      "name": "Mosaic",
       "sector": "Materials"
     },
     {
@@ -1698,7 +1698,7 @@
     },
     {
       "ticker": "NLSN",
-      "name": "Nielsen Holdings",
+      "name": "Nielsen",
       "sector": "Industrials"
     },
     {
@@ -1778,7 +1778,7 @@
     },
     {
       "ticker": "ODFL",
-      "name": "Old Dominion Freight Line",
+      "name": "Old Dominion",
       "sector": "Industrials"
     },
     {
@@ -1798,12 +1798,12 @@
     },
     {
       "ticker": "OGN",
-      "name": "Organon & Co.",
+      "name": "Organon",
       "sector": "Health Care"
     },
     {
       "ticker": "OTIS",
-      "name": "Otis Worldwide",
+      "name": "Otis",
       "sector": "Industrials"
     },
     {
@@ -1818,12 +1818,12 @@
     },
     {
       "ticker": "PARA",
-      "name": "Paramount Global",
+      "name": "Paramount",
       "sector": "Communication Services"
     },
     {
       "ticker": "PH",
-      "name": "Parker-Hannifin",
+      "name": "Parker",
       "sector": "Industrials"
     },
     {
@@ -1883,7 +1883,7 @@
     },
     {
       "ticker": "PNW",
-      "name": "Pinnacle West Capital",
+      "name": "Pinnacle West",
       "sector": "Utilities"
     },
     {
@@ -1913,7 +1913,7 @@
     },
     {
       "ticker": "PFG",
-      "name": "Principal Financial Group",
+      "name": "Principal",
       "sector": "Financials"
     },
     {
@@ -1923,7 +1923,7 @@
     },
     {
       "ticker": "PGR",
-      "name": "Progressive Corporation",
+      "name": "Progressive",
       "sector": "Financials"
     },
     {
@@ -1933,7 +1933,7 @@
     },
     {
       "ticker": "PRU",
-      "name": "Prudential Financial",
+      "name": "Prudential",
       "sector": "Financials"
     },
     {
@@ -1968,7 +1968,7 @@
     },
     {
       "ticker": "PWR",
-      "name": "Quanta Services",
+      "name": "Quanta",
       "sector": "Industrials"
     },
     {
@@ -1983,12 +1983,12 @@
     },
     {
       "ticker": "RL",
-      "name": "Ralph Lauren Corporation",
+      "name": "Ralph Lauren",
       "sector": "Consumer Discretionary"
     },
     {
       "ticker": "RJF",
-      "name": "Raymond James Financial",
+      "name": "Raymond James",
       "sector": "Financials"
     },
     {
@@ -1998,7 +1998,7 @@
     },
     {
       "ticker": "O",
-      "name": "Realty Income Corporation",
+      "name": "Realty Income",
       "sector": "Real Estate"
     },
     {
@@ -2008,12 +2008,12 @@
     },
     {
       "ticker": "REGN",
-      "name": "Regeneron Pharmaceuticals",
+      "name": "Regeneron",
       "sector": "Health Care"
     },
     {
       "ticker": "RF",
-      "name": "Regions Financial Corporation",
+      "name": "Regions",
       "sector": "Financials"
     },
     {
@@ -2028,7 +2028,7 @@
     },
     {
       "ticker": "RHI",
-      "name": "Robert Half International",
+      "name": "Robert Half",
       "sector": "Industrials"
     },
     {
@@ -2043,12 +2043,12 @@
     },
     {
       "ticker": "ROP",
-      "name": "Roper Technologies",
+      "name": "Roper",
       "sector": "Industrials"
     },
     {
       "ticker": "ROST",
-      "name": "Ross Stores",
+      "name": "Ross",
       "sector": "Consumer Discretionary"
     },
     {
@@ -2078,7 +2078,7 @@
     },
     {
       "ticker": "STX",
-      "name": "Seagate Technology",
+      "name": "Seagate",
       "sector": "Information Technology"
     },
     {
@@ -2153,7 +2153,7 @@
     },
     {
       "ticker": "STT",
-      "name": "State Street Corporation",
+      "name": "State Street",
       "sector": "Financials"
     },
     {
@@ -2163,7 +2163,7 @@
     },
     {
       "ticker": "SYK",
-      "name": "Stryker Corporation",
+      "name": "Stryker",
       "sector": "Health Care"
     },
     {
@@ -2173,7 +2173,7 @@
     },
     {
       "ticker": "SYF",
-      "name": "Synchrony Financial",
+      "name": "Synchrony",
       "sector": "Financials"
     },
     {
@@ -2188,7 +2188,7 @@
     },
     {
       "ticker": "TMUS",
-      "name": "T-Mobile US",
+      "name": "T-Mobile",
       "sector": "Communication Services"
     },
     {
@@ -2218,7 +2218,7 @@
     },
     {
       "ticker": "TDY",
-      "name": "Teledyne Technologies",
+      "name": "Teledyne",
       "sector": "Industrials"
     },
     {
@@ -2258,7 +2258,7 @@
     },
     {
       "ticker": "TSCO",
-      "name": "Tractor Supply Company",
+      "name": "Tractor Supply",
       "sector": "Consumer Discretionary"
     },
     {
@@ -2268,12 +2268,12 @@
     },
     {
       "ticker": "TDG",
-      "name": "TransDigm Group",
+      "name": "TransDigm",
       "sector": "Industrials"
     },
     {
       "ticker": "TRV",
-      "name": "The Travelers Companies",
+      "name": "Travelers",
       "sector": "Financials"
     },
     {
@@ -2283,7 +2283,7 @@
     },
     {
       "ticker": "TFC",
-      "name": "Truist Financial",
+      "name": "Truist",
       "sector": "Financials"
     },
     {
@@ -2298,8 +2298,13 @@
     },
     {
       "ticker": "TSN",
-      "name": "Tyson Foods",
+      "name": "Tyson",
       "sector": "Consumer Staples"
+    },
+    {
+      "ticker": "USB",
+      "name": "U.S. Bank",
+      "sector": "Financials"
     },
     {
       "ticker": "UDR",
@@ -2310,11 +2315,6 @@
       "ticker": "ULTA",
       "name": "Ulta Beauty",
       "sector": "Consumer Discretionary"
-    },
-    {
-      "ticker": "USB",
-      "name": "U.S. Bancorp",
-      "sector": "Financials"
     },
     {
       "ticker": "UAA",
@@ -2358,7 +2358,7 @@
     },
     {
       "ticker": "VLO",
-      "name": "Valero Energy",
+      "name": "Valero",
       "sector": "Energy"
     },
     {
@@ -2373,17 +2373,17 @@
     },
     {
       "ticker": "VRSK",
-      "name": "Verisk Analytics",
+      "name": "Verisk",
       "sector": "Industrials"
     },
     {
       "ticker": "VZ",
-      "name": "Verizon Communications",
+      "name": "Verizon",
       "sector": "Communication Services"
     },
     {
       "ticker": "VRTX",
-      "name": "Vertex Pharmaceuticals",
+      "name": "Vertex",
       "sector": "Health Care"
     },
     {
@@ -2478,7 +2478,7 @@
     },
     {
       "ticker": "WMB",
-      "name": "Williams Companies",
+      "name": "Williams",
       "sector": "Energy"
     },
     {
@@ -2508,7 +2508,7 @@
     },
     {
       "ticker": "ZBRA",
-      "name": "Zebra Technologies",
+      "name": "Zebra",
       "sector": "Information Technology"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "update": 1646172692268,
+  "update": 1646259107521,
   "companies": [
     {
       "ticker": "MMM",
@@ -1237,11 +1237,6 @@
       "sector": "Health Care"
     },
     {
-      "ticker": "INFO",
-      "name": "IHS Markit",
-      "sector": "Industrials"
-    },
-    {
       "ticker": "ITW",
       "name": "Illinois Tool Works",
       "sector": "Industrials"
@@ -1610,6 +1605,11 @@
       "ticker": "MHK",
       "name": "Mohawk Industries",
       "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "MOH",
+      "name": "Molina Healthcare",
+      "sector": "Health Care"
     },
     {
       "ticker": "TAP",

@@ -1,5 +1,5 @@
 {
-  "update": 1647123079805,
+  "update": 1647209457382,
   "companies": [
     {
       "ticker": "MMM",
@@ -78,7 +78,7 @@
     },
     {
       "ticker": "APD",
-      "name": "Air Products",
+      "name": "Air Products and Chemicals",
       "sector": "Materials"
     },
     {

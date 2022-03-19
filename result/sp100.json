@@ -1,5 +1,5 @@
 {
-  "update": 1647555127313,
+  "update": 1647727859223,
   "companies": [
     {
       "ticker": "AAPL",
@@ -65,11 +65,6 @@
       "ticker": "BAC",
       "name": "Bank of America",
       "sector": "Financials"
-    },
-    {
-      "ticker": "BIIB",
-      "name": "Biogen",
-      "sector": "Health Care"
     },
     {
       "ticker": "BK",
@@ -284,7 +279,7 @@
     {
       "ticker": "LIN",
       "name": "Linde",
-      "sector": "Industrials"
+      "sector": "Materials"
     },
     {
       "ticker": "LLY",
@@ -304,7 +299,7 @@
     {
       "ticker": "MA",
       "name": "Mastercard",
-      "sector": "Financials"
+      "sector": "Information Technology"
     },
     {
       "ticker": "MCD",
@@ -399,7 +394,7 @@
     {
       "ticker": "PYPL",
       "name": "PayPal",
-      "sector": "Financials"
+      "sector": "Information Technology"
     },
     {
       "ticker": "QCOM",
@@ -415,6 +410,11 @@
       "ticker": "SBUX",
       "name": "Starbucks",
       "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "SCHW",
+      "name": "Charles Schwab",
+      "sector": "Financials"
     },
     {
       "ticker": "SO",
@@ -434,7 +434,7 @@
     {
       "ticker": "TGT",
       "name": "Target",
-      "sector": "Consumer Staples"
+      "sector": "Consumer Discretionary"
     },
     {
       "ticker": "TMO",
@@ -479,7 +479,7 @@
     {
       "ticker": "V",
       "name": "Visa",
-      "sector": "Financials"
+      "sector": "Information Technology"
     },
     {
       "ticker": "VZ",

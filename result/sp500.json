@@ -1,5 +1,5 @@
 {
-  "update": 1649110298363,
+  "update": 1649283149201,
   "companies": [
     {
       "ticker": "MMM",
@@ -420,6 +420,11 @@
       "ticker": "CZR",
       "name": "Caesars Entertainment",
       "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "CPT",
+      "name": "Camden",
+      "sector": "Real Estate"
     },
     {
       "ticker": "CPB",
@@ -1850,11 +1855,6 @@
       "ticker": "PNR",
       "name": "Pentair",
       "sector": "Industrials"
-    },
-    {
-      "ticker": "PBCT",
-      "name": "People's United Financial",
-      "sector": "Financials"
     },
     {
       "ticker": "PEP",

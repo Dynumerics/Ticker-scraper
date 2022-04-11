@@ -1,5 +1,5 @@
 {
-  "update": 1649542346194,
+  "update": 1649715131362,
   "companies": [
     {
       "ticker": "MMM",
@@ -755,16 +755,6 @@
       "ticker": "DFS",
       "name": "Discover",
       "sector": "Financials"
-    },
-    {
-      "ticker": "DISCA",
-      "name": "Discovery (Series A)",
-      "sector": "Communication Services"
-    },
-    {
-      "ticker": "DISCK",
-      "name": "Discovery (Series C)",
-      "sector": "Communication Services"
     },
     {
       "ticker": "DISH",
@@ -2425,6 +2415,11 @@
       "ticker": "WBA",
       "name": "Walgreens Boots Alliance",
       "sector": "Consumer Staples"
+    },
+    {
+      "ticker": "WBD",
+      "name": "Warner Bros. Discovery",
+      "sector": "Communication Services"
     },
     {
       "ticker": "WM",

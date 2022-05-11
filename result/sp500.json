@@ -1,5 +1,5 @@
 {
-  "update": 1652047928446,
+  "update": 1652307170841,
   "companies": [
     {
       "ticker": "MMM",
@@ -292,7 +292,7 @@
       "sector": "Energy"
     },
     {
-      "ticker": "BLL",
+      "ticker": "BALL",
       "name": "Ball",
       "sector": "Materials"
     },

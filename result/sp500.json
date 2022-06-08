@@ -1,5 +1,5 @@
 {
-  "update": 1654639882978,
+  "update": 1654726292908,
   "companies": [
     {
       "ticker": "MMM",
@@ -500,11 +500,6 @@
       "ticker": "CDAY",
       "name": "Ceridian",
       "sector": "Information Technology"
-    },
-    {
-      "ticker": "CERN",
-      "name": "Cerner",
-      "sector": "Health Care"
     },
     {
       "ticker": "CF",
@@ -2078,7 +2073,7 @@
     },
     {
       "ticker": "SRE",
-      "name": "Sempra Energy",
+      "name": "Sempra",
       "sector": "Utilities"
     },
     {
@@ -2387,6 +2382,11 @@
       "sector": "Health Care"
     },
     {
+      "ticker": "VICI",
+      "name": "Vici",
+      "sector": "Real Estate"
+    },
+    {
       "ticker": "V",
       "name": "Visa",
       "sector": "Information Technology"
@@ -2407,13 +2407,13 @@
       "sector": "Industrials"
     },
     {
-      "ticker": "WMT",
-      "name": "Walmart",
+      "ticker": "WBA",
+      "name": "Walgreens Boots Alliance",
       "sector": "Consumer Staples"
     },
     {
-      "ticker": "WBA",
-      "name": "Walgreens Boots Alliance",
+      "ticker": "WMT",
+      "name": "Walmart",
       "sector": "Consumer Staples"
     },
     {

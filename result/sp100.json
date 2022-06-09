@@ -1,5 +1,5 @@
 {
-  "update": 1654726292461,
+  "update": 1654812788399,
   "companies": [
     {
       "ticker": "AAPL",
@@ -192,11 +192,6 @@
       "sector": "Consumer Discretionary"
     },
     {
-      "ticker": "FB",
-      "name": "Meta",
-      "sector": "Communication Services"
-    },
-    {
       "ticker": "FDX",
       "name": "FedEx",
       "sector": "Industrials"
@@ -320,6 +315,11 @@
       "ticker": "MET",
       "name": "MetLife",
       "sector": "Financials"
+    },
+    {
+      "ticker": "META",
+      "name": "Meta",
+      "sector": "Communication Services"
     },
     {
       "ticker": "MMM",

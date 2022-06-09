@@ -1,5 +1,5 @@
 {
-  "update": 1654726292908,
+  "update": 1654812789149,
   "companies": [
     {
       "ticker": "MMM",
@@ -1547,7 +1547,7 @@
       "sector": "Health Care"
     },
     {
-      "ticker": "FB",
+      "ticker": "META",
       "name": "Meta",
       "sector": "Communication Services"
     },
@@ -2322,11 +2322,6 @@
       "sector": "Industrials"
     },
     {
-      "ticker": "UNH",
-      "name": "UnitedHealth Group",
-      "sector": "Health Care"
-    },
-    {
       "ticker": "UPS",
       "name": "United Parcel Service",
       "sector": "Industrials"
@@ -2335,6 +2330,11 @@
       "ticker": "URI",
       "name": "United Rentals",
       "sector": "Industrials"
+    },
+    {
+      "ticker": "UNH",
+      "name": "UnitedHealth Group",
+      "sector": "Health Care"
     },
     {
       "ticker": "UHS",

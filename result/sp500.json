@@ -1,5 +1,5 @@
 {
-  "update": 1655331121401,
+  "update": 1655417512463,
   "companies": [
     {
       "ticker": "MMM",
@@ -70,11 +70,6 @@
       "ticker": "A",
       "name": "Agilent Technologies",
       "sector": "Health Care"
-    },
-    {
-      "ticker": "AIG",
-      "name": "AIG",
-      "sector": "Financials"
     },
     {
       "ticker": "APD",
@@ -169,6 +164,11 @@
     {
       "ticker": "AXP",
       "name": "American Express",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "AIG",
+      "name": "American International Group",
       "sector": "Financials"
     },
     {
@@ -398,7 +398,7 @@
     },
     {
       "ticker": "BR",
-      "name": "Broadridge",
+      "name": "Broadridge Financial Solutions",
       "sector": "Information Technology"
     },
     {
@@ -433,7 +433,7 @@
     },
     {
       "ticker": "CPB",
-      "name": "Campbell's",
+      "name": "Campbell Soup Company",
       "sector": "Consumer Staples"
     },
     {
@@ -458,7 +458,7 @@
     },
     {
       "ticker": "CARR",
-      "name": "Carrier",
+      "name": "Carrier Global",
       "sector": "Industrials"
     },
     {
@@ -528,7 +528,7 @@
     },
     {
       "ticker": "CVX",
-      "name": "Chevron",
+      "name": "Chevron Corporation",
       "sector": "Energy"
     },
     {

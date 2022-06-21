@@ -1,5 +1,5 @@
 {
-  "update": 1655763096944,
+  "update": 1655849489720,
   "companies": [
     {
       "ticker": "MMM",
@@ -1292,11 +1292,6 @@
       "sector": "Financials"
     },
     {
-      "ticker": "IPGP",
-      "name": "IPG Photonics",
-      "sector": "Information Technology"
-    },
-    {
       "ticker": "IQV",
       "name": "IQVIA",
       "sector": "Health Care"
@@ -1344,6 +1339,11 @@
     {
       "ticker": "K",
       "name": "Kellogg's",
+      "sector": "Consumer Staples"
+    },
+    {
+      "ticker": "KDP",
+      "name": "Keurig Dr Pepper",
       "sector": "Consumer Staples"
     },
     {
@@ -1770,6 +1770,11 @@
       "ticker": "OMC",
       "name": "Omnicom Group",
       "sector": "Communication Services"
+    },
+    {
+      "ticker": "ON",
+      "name": "ON Semiconductor",
+      "sector": "Information Technology"
     },
     {
       "ticker": "OKE",
@@ -2294,16 +2299,6 @@
     {
       "ticker": "ULTA",
       "name": "Ulta Beauty",
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "ticker": "UAA",
-      "name": "Under Armour (Class A)",
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "ticker": "UA",
-      "name": "Under Armour (Class C)",
       "sector": "Consumer Discretionary"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "update": 1656022295327,
+  "update": 1656195127429,
   "companies": [
     {
       "ticker": "MMM",
@@ -1067,11 +1067,6 @@
       "sector": "Information Technology"
     },
     {
-      "ticker": "GE",
-      "name": "GE",
-      "sector": "Industrials"
-    },
-    {
       "ticker": "GNRC",
       "name": "Generac",
       "sector": "Industrials"
@@ -1079,6 +1074,11 @@
     {
       "ticker": "GD",
       "name": "General Dynamics",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "GE",
+      "name": "General Electric",
       "sector": "Industrials"
     },
     {
@@ -1183,7 +1183,7 @@
     },
     {
       "ticker": "HRL",
-      "name": "Hormel",
+      "name": "Hormel Foods",
       "sector": "Consumer Staples"
     },
     {
@@ -1207,14 +1207,14 @@
       "sector": "Health Care"
     },
     {
+      "ticker": "HBAN",
+      "name": "Huntington Bancshares",
+      "sector": "Financials"
+    },
+    {
       "ticker": "HII",
       "name": "Huntington Ingalls Industries",
       "sector": "Industrials"
-    },
-    {
-      "ticker": "HBAN",
-      "name": "Huntington National Bank",
-      "sector": "Financials"
     },
     {
       "ticker": "IBM",
@@ -1498,7 +1498,7 @@
     },
     {
       "ticker": "MLM",
-      "name": "Martin Marietta",
+      "name": "Martin Marietta Materials",
       "sector": "Materials"
     },
     {
@@ -1698,7 +1698,7 @@
     },
     {
       "ticker": "NDSN",
-      "name": "Nordson",
+      "name": "Nordson Corporation",
       "sector": "Industrials"
     },
     {
@@ -2203,7 +2203,7 @@
     },
     {
       "ticker": "TDY",
-      "name": "Teledyne",
+      "name": "Teledyne Technologies",
       "sector": "Industrials"
     },
     {

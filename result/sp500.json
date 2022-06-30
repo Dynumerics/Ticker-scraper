@@ -1,5 +1,5 @@
 {
-  "update": 1656454434867,
+  "update": 1656627180777,
   "companies": [
     {
       "ticker": "MMM",
@@ -215,11 +215,6 @@
       "ticker": "ANSS",
       "name": "Ansys",
       "sector": "Information Technology"
-    },
-    {
-      "ticker": "ANTM",
-      "name": "Anthem",
-      "sector": "Health Care"
     },
     {
       "ticker": "AON",
@@ -855,6 +850,11 @@
       "ticker": "EA",
       "name": "Electronic Arts",
       "sector": "Communication Services"
+    },
+    {
+      "ticker": "ELV",
+      "name": "Elevance Health",
+      "sector": "Health Care"
     },
     {
       "ticker": "LLY",

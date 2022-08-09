@@ -1,5 +1,5 @@
 {
-  "update": 1659996840321,
+  "update": 1660083144986,
   "companies": [
     {
       "ticker": "AAPL",
@@ -87,7 +87,7 @@
       "sector": "Health Care"
     },
     {
-      "ticker": "BRK.B",
+      "ticker": "BRK-B",
       "name": "Berkshire Hathaway",
       "sector": "Financials"
     },

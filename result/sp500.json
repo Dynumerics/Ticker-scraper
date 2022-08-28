@@ -1,5 +1,5 @@
 {
-  "update": 1661638307748,
+  "update": 1661724726385,
   "companies": [
     {
       "ticker": "MMM",
@@ -2029,7 +2029,7 @@
     {
       "ticker": "ROP",
       "name": "Roper Technologies",
-      "sector": "Industrials"
+      "sector": "Information Technology"
     },
     {
       "ticker": "ROST",
@@ -2204,7 +2204,7 @@
     {
       "ticker": "TDY",
       "name": "Teledyne Technologies",
-      "sector": "Industrials"
+      "sector": "Information Technology"
     },
     {
       "ticker": "TFX",

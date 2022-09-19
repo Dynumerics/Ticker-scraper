@@ -1,5 +1,5 @@
 {
-  "update": 1663539196853,
+  "update": 1663625619089,
   "companies": [
     {
       "ticker": "AAPL",
@@ -28,8 +28,13 @@
     },
     {
       "ticker": "AIG",
-      "name": "AIG",
+      "name": "American International Group",
       "sector": "Financials"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "sector": "Information Technology"
     },
     {
       "ticker": "AMGN",
@@ -150,11 +155,6 @@
       "ticker": "CVX",
       "name": "Chevron",
       "sector": "Energy"
-    },
-    {
-      "ticker": "DD",
-      "name": "DuPont",
-      "sector": "Materials"
     },
     {
       "ticker": "DHR",

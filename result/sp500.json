@@ -1,5 +1,5 @@
 {
-  "update": 1663539197819,
+  "update": 1663625620097,
   "companies": [
     {
       "ticker": "MMM",
@@ -662,6 +662,11 @@
       "sector": "Materials"
     },
     {
+      "ticker": "CSGP",
+      "name": "CoStar Group",
+      "sector": "Industrials"
+    },
+    {
       "ticker": "COST",
       "name": "Costco",
       "sector": "Consumer Staples"
@@ -1292,6 +1297,11 @@
       "sector": "Financials"
     },
     {
+      "ticker": "INVH",
+      "name": "Invitation Homes",
+      "sector": "Real Estate"
+    },
+    {
       "ticker": "IQV",
       "name": "IQVIA",
       "sector": "Health Care"
@@ -1832,11 +1842,6 @@
       "sector": "Information Technology"
     },
     {
-      "ticker": "PENN",
-      "name": "Penn Entertainment",
-      "sector": "Consumer Discretionary"
-    },
-    {
       "ticker": "PNR",
       "name": "Pentair",
       "sector": "Industrials"
@@ -1939,11 +1944,6 @@
     {
       "ticker": "PHM",
       "name": "PulteGroup",
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "ticker": "PVH",
-      "name": "PVH",
       "sector": "Consumer Discretionary"
     },
     {

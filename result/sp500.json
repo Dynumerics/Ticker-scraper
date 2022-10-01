@@ -1,5 +1,5 @@
 {
-  "update": 1664576175291,
+  "update": 1664662462286,
   "companies": [
     {
       "ticker": "MMM",
@@ -570,11 +570,6 @@
       "ticker": "CFG",
       "name": "Citizens Financial Group",
       "sector": "Financials"
-    },
-    {
-      "ticker": "CTXS",
-      "name": "Citrix",
-      "sector": "Information Technology"
     },
     {
       "ticker": "CLX",

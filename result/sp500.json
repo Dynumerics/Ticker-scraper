@@ -1,5 +1,5 @@
 {
-  "update": 1664748850105,
+  "update": 1664835341428,
   "companies": [
     {
       "ticker": "MMM",
@@ -802,11 +802,6 @@
       "sector": "Utilities"
     },
     {
-      "ticker": "DRE",
-      "name": "Duke Realty",
-      "sector": "Real Estate"
-    },
-    {
       "ticker": "DD",
       "name": "DuPont",
       "sector": "Materials"
@@ -885,6 +880,11 @@
       "ticker": "EPAM",
       "name": "EPAM Systems",
       "sector": "Information Technology"
+    },
+    {
+      "ticker": "EQT",
+      "name": "EQT",
+      "sector": "Energy"
     },
     {
       "ticker": "EFX",
@@ -1855,6 +1855,11 @@
       "ticker": "PFE",
       "name": "Pfizer",
       "sector": "Health Care"
+    },
+    {
+      "ticker": "PCG",
+      "name": "PG&E",
+      "sector": "Utilities"
     },
     {
       "ticker": "PM",

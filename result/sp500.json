@@ -1,5 +1,5 @@
 {
-  "update": 1665612932706,
+  "update": 1665699436777,
   "companies": [
     {
       "ticker": "MMM",
@@ -1685,11 +1685,6 @@
       "ticker": "NEE",
       "name": "NextEra Energy",
       "sector": "Utilities"
-    },
-    {
-      "ticker": "NLSN",
-      "name": "Nielsen Holdings",
-      "sector": "Industrials"
     },
     {
       "ticker": "NKE",

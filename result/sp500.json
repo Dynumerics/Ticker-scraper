@@ -1,5 +1,5 @@
 {
-  "update": 1665699436777,
+  "update": 1665785680705,
   "companies": [
     {
       "ticker": "MMM",
@@ -2185,6 +2185,11 @@
       "ticker": "TPR",
       "name": "Tapestry, Inc.",
       "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "TRGP",
+      "name": "Targa Resources",
+      "sector": "Energy"
     },
     {
       "ticker": "TGT",

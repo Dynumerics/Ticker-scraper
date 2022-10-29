@@ -1,5 +1,5 @@
 {
-  "update": 1666995241720,
+  "update": 1667081562837,
   "companies": [
     {
       "ticker": "MMM",
@@ -2270,11 +2270,6 @@
       "ticker": "TFC",
       "name": "Truist",
       "sector": "Financials"
-    },
-    {
-      "ticker": "TWTR",
-      "name": "Twitter Inc.",
-      "sector": "Communication Services"
     },
     {
       "ticker": "TYL",

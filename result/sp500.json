@@ -1,5 +1,5 @@
 {
-  "update": 1667254522355,
+  "update": 1667340937729,
   "companies": [
     {
       "ticker": "MMM",
@@ -240,6 +240,11 @@
       "ticker": "APTV",
       "name": "Aptiv",
       "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "ACGL",
+      "name": "Arch Capital Group",
+      "sector": "Financials"
     },
     {
       "ticker": "ANET",

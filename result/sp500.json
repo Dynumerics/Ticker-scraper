@@ -1,5 +1,5 @@
 {
-  "update": 1667945634937,
+  "update": 1668032003668,
   "companies": [
     {
       "ticker": "MMM",
@@ -1072,6 +1072,11 @@
       "sector": "Information Technology"
     },
     {
+      "ticker": "GEN",
+      "name": "Gen Digital",
+      "sector": "Information Technology"
+    },
+    {
       "ticker": "GNRC",
       "name": "Generac",
       "sector": "Industrials"
@@ -1720,11 +1725,6 @@
       "ticker": "NOC",
       "name": "Northrop Grumman",
       "sector": "Industrials"
-    },
-    {
-      "ticker": "NLOK",
-      "name": "NortonLifeLock",
-      "sector": "Information Technology"
     },
     {
       "ticker": "NCLH",

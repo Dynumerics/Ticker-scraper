@@ -1,5 +1,5 @@
 {
-  "update": 1670105415864,
+  "update": 1670191833969,
   "companies": [
     {
       "ticker": "MMM",
@@ -1783,7 +1783,7 @@
     },
     {
       "ticker": "OKE",
-      "name": "Oneok",
+      "name": "ONEOK",
       "sector": "Energy"
     },
     {
@@ -1858,7 +1858,7 @@
     },
     {
       "ticker": "PCG",
-      "name": "PG&E",
+      "name": "PG&E Corporation",
       "sector": "Utilities"
     },
     {

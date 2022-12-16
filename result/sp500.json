@@ -1,5 +1,5 @@
 {
-  "update": 1671142210706,
+  "update": 1671228608039,
   "companies": [
     {
       "ticker": "MMM",
@@ -1034,11 +1034,6 @@
     {
       "ticker": "FTV",
       "name": "Fortive",
-      "sector": "Industrials"
-    },
-    {
-      "ticker": "FBHS",
-      "name": "Fortune Brands Home & Security",
       "sector": "Industrials"
     },
     {

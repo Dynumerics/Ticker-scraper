@@ -1,5 +1,5 @@
 {
-  "update": 1671315013472,
+  "update": 1671401369840,
   "companies": [
     {
       "ticker": "MMM",
@@ -995,6 +995,11 @@
       "ticker": "FRC",
       "name": "First Republic Bank",
       "sector": "Financials"
+    },
+    {
+      "ticker": "FSLR",
+      "name": "First Solar",
+      "sector": "Information Technology"
     },
     {
       "ticker": "FE",

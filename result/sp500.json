@@ -1,5 +1,5 @@
 {
-  "update": 1671747029816,
+  "update": 1671833394230,
   "companies": [
     {
       "ticker": "MMM",
@@ -19,11 +19,6 @@
     {
       "ticker": "ABBV",
       "name": "AbbVie",
-      "sector": "Health Care"
-    },
-    {
-      "ticker": "ABMD",
-      "name": "Abiomed",
       "sector": "Health Care"
     },
     {
@@ -2140,6 +2135,11 @@
       "ticker": "STT",
       "name": "State Street Corporation",
       "sector": "Financials"
+    },
+    {
+      "ticker": "STLD",
+      "name": "Steel Dynamics",
+      "sector": "Materials"
     },
     {
       "ticker": "STE",

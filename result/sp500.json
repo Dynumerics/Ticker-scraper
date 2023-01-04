@@ -1,5 +1,5 @@
 {
-  "update": 1672783822325,
+  "update": 1672870243226,
   "companies": [
     {
       "ticker": "MMM",
@@ -1067,8 +1067,13 @@
       "sector": "Information Technology"
     },
     {
+      "ticker": "GEHC",
+      "name": "GE HealthCare",
+      "sector": "Health Care"
+    },
+    {
       "ticker": "GEN",
-      "name": "Gen Digital Inc.",
+      "name": "Gen Digital",
       "sector": "Information Technology"
     },
     {
@@ -1178,7 +1183,7 @@
     },
     {
       "ticker": "HD",
-      "name": "The Home Depot",
+      "name": "Home Depot (The)",
       "sector": "Consumer Discretionary"
     },
     {

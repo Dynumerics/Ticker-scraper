@@ -1,5 +1,5 @@
 {
-  "update": 1672870243226,
+  "update": 1672956649092,
   "companies": [
     {
       "ticker": "MMM",
@@ -2385,11 +2385,6 @@
       "ticker": "V",
       "name": "Visa Inc.",
       "sector": "Information Technology"
-    },
-    {
-      "ticker": "VNO",
-      "name": "Vornado Realty Trust",
-      "sector": "Real Estate"
     },
     {
       "ticker": "VMC",

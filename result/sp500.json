@@ -1,5 +1,5 @@
 {
-  "update": 1673215788639,
+  "update": 1673302240808,
   "companies": [
     {
       "ticker": "MMM",
@@ -14,11 +14,6 @@
     {
       "ticker": "ABT",
       "name": "Abbott",
-      "sector": "Health Care"
-    },
-    {
-      "ticker": "ABBV",
-      "name": "AbbVie",
       "sector": "Health Care"
     },
     {

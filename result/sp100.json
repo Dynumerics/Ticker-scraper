@@ -1,5 +1,5 @@
 {
-  "update": 1674598223724,
+  "update": 1674684646023,
   "companies": [
     {
       "ticker": "AAPL",
@@ -33,7 +33,7 @@
     },
     {
       "ticker": "AMD",
-      "name": "Advanced Micro Devices",
+      "name": "AMD",
       "sector": "Information Technology"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "update": 1675116641982,
+  "update": 1675203024071,
   "companies": [
     {
       "ticker": "AAPL",
@@ -458,7 +458,7 @@
     },
     {
       "ticker": "UNH",
-      "name": "UnitedHealth",
+      "name": "UnitedHealth Group",
       "sector": "Health Care"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "update": 1676758204923,
+  "update": 1676844612633,
   "companies": [
     {
       "ticker": "MMM",
@@ -588,7 +588,7 @@
     },
     {
       "ticker": "KO",
-      "name": "The Coca-Cola Company",
+      "name": "Coca-Cola Company (The)",
       "sector": "Soft Drinks"
     },
     {
@@ -908,7 +908,7 @@
     },
     {
       "ticker": "EL",
-      "name": "The Estée Lauder Companies",
+      "name": "Estée Lauder Companies (The)",
       "sector": "Personal Products"
     },
     {
@@ -1272,19 +1272,19 @@
       "sector": "Financial Exchanges & Data"
     },
     {
+      "ticker": "IFF",
+      "name": "International Flavors & Fragrances",
+      "sector": "Specialty Chemicals"
+    },
+    {
       "ticker": "IP",
       "name": "International Paper",
       "sector": "Paper Packaging"
     },
     {
       "ticker": "IPG",
-      "name": "The Interpublic Group of Companies",
+      "name": "Interpublic Group of Companies (The)",
       "sector": "Advertising"
-    },
-    {
-      "ticker": "IFF",
-      "name": "International Flavors & Fragrances",
-      "sector": "Specialty Chemicals"
     },
     {
       "ticker": "INTU",
@@ -1643,7 +1643,7 @@
     },
     {
       "ticker": "MOS",
-      "name": "The Mosaic Company",
+      "name": "Mosaic Company (The)",
       "sector": "Fertilizers & Agricultural Chemicals"
     },
     {
@@ -2103,7 +2103,7 @@
     },
     {
       "ticker": "SJM",
-      "name": "The J.M. Smucker Company",
+      "name": "J.M. Smucker Company (The)",
       "sector": "Packaged Foods & Meats"
     },
     {
@@ -2268,7 +2268,7 @@
     },
     {
       "ticker": "TRV",
-      "name": "The Travelers Companies",
+      "name": "Travelers Companies (The)",
       "sector": "Property & Casualty Insurance"
     },
     {

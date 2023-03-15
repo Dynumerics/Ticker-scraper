@@ -1,5 +1,5 @@
 {
-  "update": 1678831823988,
+  "update": 1678918239103,
   "companies": [
     {
       "ticker": "MMM",
@@ -405,6 +405,11 @@
       "ticker": "BF.B",
       "name": "Brown–Forman",
       "sector": "Distillers & Vintners"
+    },
+    {
+      "ticker": "BG",
+      "name": "Bunge Limited",
+      "sector": "Agricultural Products"
     },
     {
       "ticker": "CHRW",
@@ -1262,6 +1267,11 @@
       "sector": "Industrial Machinery"
     },
     {
+      "ticker": "PODD",
+      "name": "Insulet",
+      "sector": "Health Care Equipment"
+    },
+    {
       "ticker": "INTC",
       "name": "Intel",
       "sector": "Semiconductors"
@@ -2087,11 +2097,6 @@
       "sector": "Specialty Chemicals"
     },
     {
-      "ticker": "SBNY",
-      "name": "Signature Bank",
-      "sector": "Regional Banks"
-    },
-    {
       "ticker": "SPG",
       "name": "Simon Property Group",
       "sector": "Retail REITs"
@@ -2155,11 +2160,6 @@
       "ticker": "SYK",
       "name": "Stryker Corporation",
       "sector": "Health Care Equipment"
-    },
-    {
-      "ticker": "SIVB",
-      "name": "SVB Financial Group",
-      "sector": "Regional Banks"
     },
     {
       "ticker": "SYF",

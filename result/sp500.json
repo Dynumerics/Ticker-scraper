@@ -1,5 +1,5 @@
 {
-  "update": 1679263805303,
+  "update": 1679350207389,
   "companies": [
     {
       "ticker": "MMM",
@@ -972,6 +972,11 @@
       "sector": "Financial Exchanges & Data"
     },
     {
+      "ticker": "FICO",
+      "name": "Fair Isaac",
+      "sector": "Application Software"
+    },
+    {
       "ticker": "FAST",
       "name": "Fastenal",
       "sector": "Building Products"
@@ -1480,11 +1485,6 @@
       "ticker": "LOW",
       "name": "Lowe's",
       "sector": "Home Improvement Retail"
-    },
-    {
-      "ticker": "LUMN",
-      "name": "Lumen Technologies",
-      "sector": "Alternative Carriers"
     },
     {
       "ticker": "LYB",

@@ -1,5 +1,5 @@
 {
-  "update": 1679436526194,
+  "update": 1679522915107,
   "companies": [
     {
       "ticker": "MMM",
@@ -44,7 +44,7 @@
     {
       "ticker": "ADP",
       "name": "ADP",
-      "sector": "Data Processing & Outsourced Services"
+      "sector": "Human Resource & Employment Services"
     },
     {
       "ticker": "AAP",
@@ -79,7 +79,7 @@
     {
       "ticker": "ALK",
       "name": "Alaska Air Group",
-      "sector": "Airlines"
+      "sector": "Passenger Airlines"
     },
     {
       "ticker": "ALB",
@@ -149,7 +149,7 @@
     {
       "ticker": "AAL",
       "name": "American Airlines Group",
-      "sector": "Airlines"
+      "sector": "Passenger Airlines"
     },
     {
       "ticker": "AEP",
@@ -669,7 +669,7 @@
     {
       "ticker": "COST",
       "name": "Costco",
-      "sector": "Hypermarkets & Super Centers"
+      "sector": "Consumer Staples Merchandise Retail"
     },
     {
       "ticker": "CTRA",
@@ -684,7 +684,7 @@
     {
       "ticker": "CSX",
       "name": "CSX",
-      "sector": "Railroads"
+      "sector": "Rail Transportation"
     },
     {
       "ticker": "CMI",
@@ -724,7 +724,7 @@
     {
       "ticker": "DAL",
       "name": "Delta Air Lines",
-      "sector": "Airlines"
+      "sector": "Passenger Airlines"
     },
     {
       "ticker": "XRAY",
@@ -769,12 +769,12 @@
     {
       "ticker": "DG",
       "name": "Dollar General",
-      "sector": "General Merchandise Stores"
+      "sector": "Consumer Staples Merchandise Retail"
     },
     {
       "ticker": "DLTR",
       "name": "Dollar Tree",
-      "sector": "General Merchandise Stores"
+      "sector": "Consumer Staples Merchandise Retail"
     },
     {
       "ticker": "D",
@@ -1014,17 +1014,17 @@
     {
       "ticker": "FIS",
       "name": "FIS",
-      "sector": "Data Processing & Outsourced Services"
+      "sector": "Transaction & Payment Processing Services"
     },
     {
       "ticker": "FISV",
       "name": "Fiserv",
-      "sector": "Data Processing & Outsourced Services"
+      "sector": "Transaction & Payment Processing Services"
     },
     {
       "ticker": "FLT",
       "name": "Fleetcor",
-      "sector": "Data Processing & Outsourced Services"
+      "sector": "Transaction & Payment Processing Services"
     },
     {
       "ticker": "FMC",
@@ -1129,7 +1129,7 @@
     {
       "ticker": "GPN",
       "name": "Global Payments",
-      "sector": "Data Processing & Outsourced Services"
+      "sector": "Transaction & Payment Processing Services"
     },
     {
       "ticker": "GS",
@@ -1334,12 +1334,12 @@
     {
       "ticker": "JBHT",
       "name": "J.B. Hunt",
-      "sector": "Trucking"
+      "sector": "Cargo Ground Transportation"
     },
     {
       "ticker": "JKHY",
       "name": "Jack Henry & Associates",
-      "sector": "Data Processing & Outsourced Services"
+      "sector": "Transaction & Payment Processing Services"
     },
     {
       "ticker": "J",
@@ -1534,7 +1534,7 @@
     {
       "ticker": "MA",
       "name": "Mastercard",
-      "sector": "Data Processing & Outsourced Services"
+      "sector": "Transaction & Payment Processing Services"
     },
     {
       "ticker": "MTCH",
@@ -1724,7 +1724,7 @@
     {
       "ticker": "NSC",
       "name": "Norfolk Southern Railway",
-      "sector": "Railroads"
+      "sector": "Rail Transportation"
     },
     {
       "ticker": "NTRS",
@@ -1779,7 +1779,7 @@
     {
       "ticker": "ODFL",
       "name": "Old Dominion",
-      "sector": "Trucking"
+      "sector": "Cargo Ground Transportation"
     },
     {
       "ticker": "OMC",
@@ -1834,7 +1834,7 @@
     {
       "ticker": "PAYX",
       "name": "Paychex",
-      "sector": "Data Processing & Outsourced Services"
+      "sector": "Human Resource & Employment Services"
     },
     {
       "ticker": "PAYC",
@@ -1844,7 +1844,7 @@
     {
       "ticker": "PYPL",
       "name": "PayPal",
-      "sector": "Data Processing & Outsourced Services"
+      "sector": "Transaction & Payment Processing Services"
     },
     {
       "ticker": "PNR",
@@ -2129,7 +2129,7 @@
     {
       "ticker": "LUV",
       "name": "Southwest Airlines",
-      "sector": "Airlines"
+      "sector": "Passenger Airlines"
     },
     {
       "ticker": "SWK",
@@ -2204,7 +2204,7 @@
     {
       "ticker": "TGT",
       "name": "Target Corporation",
-      "sector": "General Merchandise Stores"
+      "sector": "Consumer Staples Merchandise Retail"
     },
     {
       "ticker": "TEL",
@@ -2309,12 +2309,12 @@
     {
       "ticker": "UNP",
       "name": "Union Pacific Corporation",
-      "sector": "Railroads"
+      "sector": "Rail Transportation"
     },
     {
       "ticker": "UAL",
       "name": "United Airlines Holdings",
-      "sector": "Airlines"
+      "sector": "Passenger Airlines"
     },
     {
       "ticker": "UPS",
@@ -2384,7 +2384,7 @@
     {
       "ticker": "V",
       "name": "Visa Inc.",
-      "sector": "Data Processing & Outsourced Services"
+      "sector": "Transaction & Payment Processing Services"
     },
     {
       "ticker": "VMC",
@@ -2404,7 +2404,7 @@
     {
       "ticker": "WMT",
       "name": "Walmart",
-      "sector": "Hypermarkets & Super Centers"
+      "sector": "Consumer Staples Merchandise Retail"
     },
     {
       "ticker": "WBD",

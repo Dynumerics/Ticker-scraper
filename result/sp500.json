@@ -1,5 +1,5 @@
 {
-  "update": 1679522915107,
+  "update": 1679609405008,
   "companies": [
     {
       "ticker": "MMM",
@@ -34,7 +34,7 @@
     {
       "ticker": "ADM",
       "name": "ADM",
-      "sector": "Agricultural Products"
+      "sector": "Agricultural Products & Services"
     },
     {
       "ticker": "ADBE",
@@ -134,7 +134,7 @@
     {
       "ticker": "AMCR",
       "name": "Amcor",
-      "sector": "Paper Packaging"
+      "sector": "Paper & Plastic Packaging Products & Materials"
     },
     {
       "ticker": "AMD",
@@ -229,12 +229,12 @@
     {
       "ticker": "AMAT",
       "name": "Applied Materials",
-      "sector": "Semiconductor Equipment"
+      "sector": "Semiconductor Materials & Equipment"
     },
     {
       "ticker": "APTV",
       "name": "Aptiv",
-      "sector": "Auto Parts & Equipment"
+      "sector": "Automotive Parts & Equipment"
     },
     {
       "ticker": "ACGL",
@@ -284,7 +284,7 @@
     {
       "ticker": "AVY",
       "name": "Avery Dennison",
-      "sector": "Paper Packaging"
+      "sector": "Paper & Plastic Packaging Products & Materials"
     },
     {
       "ticker": "BKR",
@@ -294,7 +294,7 @@
     {
       "ticker": "BALL",
       "name": "Ball Corporation",
-      "sector": "Metal & Glass Containers"
+      "sector": "Metal, Glass & Plastic Containers"
     },
     {
       "ticker": "BAC",
@@ -369,7 +369,7 @@
     {
       "ticker": "BWA",
       "name": "BorgWarner",
-      "sector": "Auto Parts & Equipment"
+      "sector": "Automotive Parts & Equipment"
     },
     {
       "ticker": "BXP",
@@ -409,7 +409,7 @@
     {
       "ticker": "BG",
       "name": "Bunge Limited",
-      "sector": "Agricultural Products"
+      "sector": "Agricultural Products & Services"
     },
     {
       "ticker": "CHRW",
@@ -469,7 +469,7 @@
     {
       "ticker": "CAT",
       "name": "Caterpillar Inc.",
-      "sector": "Construction Machinery & Heavy Trucks"
+      "sector": "Construction Machinery & Heavy Transportation Equipment"
     },
     {
       "ticker": "CBOE",
@@ -594,7 +594,7 @@
     {
       "ticker": "KO",
       "name": "Coca-Cola Company (The)",
-      "sector": "Soft Drinks"
+      "sector": "Soft Drinks & Non-alcoholic Beverages"
     },
     {
       "ticker": "CTSH",
@@ -689,7 +689,7 @@
     {
       "ticker": "CMI",
       "name": "Cummins",
-      "sector": "Industrial Machinery"
+      "sector": "Industrial Machinery & Supplies & Components"
     },
     {
       "ticker": "CVS",
@@ -789,7 +789,7 @@
     {
       "ticker": "DOV",
       "name": "Dover Corporation",
-      "sector": "Industrial Machinery"
+      "sector": "Industrial Machinery & Supplies & Components"
     },
     {
       "ticker": "DOW",
@@ -914,7 +914,7 @@
     {
       "ticker": "EL",
       "name": "Estée Lauder Companies (The)",
-      "sector": "Personal Products"
+      "sector": "Personal Care Products"
     },
     {
       "ticker": "ETSY",
@@ -1044,7 +1044,7 @@
     {
       "ticker": "FTV",
       "name": "Fortive",
-      "sector": "Industrial Machinery"
+      "sector": "Industrial Machinery & Supplies & Components"
     },
     {
       "ticker": "FOXA",
@@ -1244,7 +1244,7 @@
     {
       "ticker": "IEX",
       "name": "IDEX Corporation",
-      "sector": "Industrial Machinery"
+      "sector": "Industrial Machinery & Supplies & Components"
     },
     {
       "ticker": "IDXX",
@@ -1254,7 +1254,7 @@
     {
       "ticker": "ITW",
       "name": "Illinois Tool Works",
-      "sector": "Industrial Machinery"
+      "sector": "Industrial Machinery & Supplies & Components"
     },
     {
       "ticker": "ILMN",
@@ -1269,7 +1269,7 @@
     {
       "ticker": "IR",
       "name": "Ingersoll Rand",
-      "sector": "Industrial Machinery"
+      "sector": "Industrial Machinery & Supplies & Components"
     },
     {
       "ticker": "PODD",
@@ -1294,7 +1294,7 @@
     {
       "ticker": "IP",
       "name": "International Paper",
-      "sector": "Paper Packaging"
+      "sector": "Paper & Plastic Packaging Products & Materials"
     },
     {
       "ticker": "IPG",
@@ -1374,7 +1374,7 @@
     {
       "ticker": "KDP",
       "name": "Keurig Dr Pepper",
-      "sector": "Soft Drinks"
+      "sector": "Soft Drinks & Non-alcoholic Beverages"
     },
     {
       "ticker": "KEY",
@@ -1404,7 +1404,7 @@
     {
       "ticker": "KLAC",
       "name": "KLA Corporation",
-      "sector": "Semiconductor Equipment"
+      "sector": "Semiconductor Materials & Equipment"
     },
     {
       "ticker": "KHC",
@@ -1429,7 +1429,7 @@
     {
       "ticker": "LRCX",
       "name": "Lam Research",
-      "sector": "Semiconductor Equipment"
+      "sector": "Semiconductor Materials & Equipment"
     },
     {
       "ticker": "LW",
@@ -1639,7 +1639,7 @@
     {
       "ticker": "MNST",
       "name": "Monster Beverage",
-      "sector": "Soft Drinks"
+      "sector": "Soft Drinks & Non-alcoholic Beverages"
     },
     {
       "ticker": "MCO",
@@ -1719,7 +1719,7 @@
     {
       "ticker": "NDSN",
       "name": "Nordson Corporation",
-      "sector": "Industrial Machinery"
+      "sector": "Industrial Machinery & Supplies & Components"
     },
     {
       "ticker": "NSC",
@@ -1809,17 +1809,17 @@
     {
       "ticker": "OTIS",
       "name": "Otis Worldwide",
-      "sector": "Industrial Machinery"
+      "sector": "Industrial Machinery & Supplies & Components"
     },
     {
       "ticker": "PCAR",
       "name": "Paccar",
-      "sector": "Construction Machinery & Heavy Trucks"
+      "sector": "Construction Machinery & Heavy Transportation Equipment"
     },
     {
       "ticker": "PKG",
       "name": "Packaging Corporation of America",
-      "sector": "Paper Packaging"
+      "sector": "Paper & Plastic Packaging Products & Materials"
     },
     {
       "ticker": "PARA",
@@ -1829,7 +1829,7 @@
     {
       "ticker": "PH",
       "name": "Parker Hannifin",
-      "sector": "Industrial Machinery"
+      "sector": "Industrial Machinery & Supplies & Components"
     },
     {
       "ticker": "PAYX",
@@ -1849,12 +1849,12 @@
     {
       "ticker": "PNR",
       "name": "Pentair",
-      "sector": "Industrial Machinery"
+      "sector": "Industrial Machinery & Supplies & Components"
     },
     {
       "ticker": "PEP",
       "name": "PepsiCo",
-      "sector": "Soft Drinks"
+      "sector": "Soft Drinks & Non-alcoholic Beverages"
     },
     {
       "ticker": "PKI",
@@ -1919,7 +1919,7 @@
     {
       "ticker": "PG",
       "name": "Procter & Gamble",
-      "sector": "Personal Products"
+      "sector": "Personal Care Products"
     },
     {
       "ticker": "PGR",
@@ -2079,7 +2079,7 @@
     {
       "ticker": "SEE",
       "name": "Sealed Air",
-      "sector": "Paper Packaging"
+      "sector": "Paper & Plastic Packaging Products & Materials"
     },
     {
       "ticker": "SRE",
@@ -2114,12 +2114,12 @@
     {
       "ticker": "SNA",
       "name": "Snap-on",
-      "sector": "Industrial Machinery"
+      "sector": "Industrial Machinery & Supplies & Components"
     },
     {
       "ticker": "SEDG",
       "name": "SolarEdge",
-      "sector": "Semiconductor Equipment"
+      "sector": "Semiconductor Materials & Equipment"
     },
     {
       "ticker": "SO",
@@ -2134,7 +2134,7 @@
     {
       "ticker": "SWK",
       "name": "Stanley Black & Decker",
-      "sector": "Industrial Machinery"
+      "sector": "Industrial Machinery & Supplies & Components"
     },
     {
       "ticker": "SBUX",
@@ -2224,7 +2224,7 @@
     {
       "ticker": "TER",
       "name": "Teradyne",
-      "sector": "Semiconductor Equipment"
+      "sector": "Semiconductor Materials & Equipment"
     },
     {
       "ticker": "TSLA",
@@ -2394,7 +2394,7 @@
     {
       "ticker": "WAB",
       "name": "Wabtec",
-      "sector": "Construction Machinery & Heavy Trucks"
+      "sector": "Construction Machinery & Heavy Transportation Equipment"
     },
     {
       "ticker": "WBA",
@@ -2449,7 +2449,7 @@
     {
       "ticker": "WRK",
       "name": "WestRock",
-      "sector": "Paper Packaging"
+      "sector": "Paper & Plastic Packaging Products & Materials"
     },
     {
       "ticker": "WY",
@@ -2474,7 +2474,7 @@
     {
       "ticker": "GWW",
       "name": "W. W. Grainger",
-      "sector": "Industrial Machinery"
+      "sector": "Industrial Machinery & Supplies & Components"
     },
     {
       "ticker": "WYNN",
@@ -2489,7 +2489,7 @@
     {
       "ticker": "XYL",
       "name": "Xylem Inc.",
-      "sector": "Industrial Machinery"
+      "sector": "Industrial Machinery & Supplies & Components"
     },
     {
       "ticker": "YUM",

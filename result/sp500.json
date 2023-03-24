@@ -1,5 +1,5 @@
 {
-  "update": 1679609405008,
+  "update": 1679695788979,
   "companies": [
     {
       "ticker": "MMM",
@@ -169,7 +169,7 @@
     {
       "ticker": "AMT",
       "name": "American Tower",
-      "sector": "Specialized REITs"
+      "sector": "Telecom Tower REITs"
     },
     {
       "ticker": "AWK",
@@ -679,7 +679,7 @@
     {
       "ticker": "CCI",
       "name": "Crown Castle",
-      "sector": "Specialized REITs"
+      "sector": "Telecom Tower REITs"
     },
     {
       "ticker": "CSX",
@@ -749,7 +749,7 @@
     {
       "ticker": "DLR",
       "name": "Digital Realty",
-      "sector": "Specialized REITs"
+      "sector": "Data Center REITs"
     },
     {
       "ticker": "DFS",
@@ -899,7 +899,7 @@
     {
       "ticker": "EQIX",
       "name": "Equinix",
-      "sector": "Specialized REITs"
+      "sector": "Data Center REITs"
     },
     {
       "ticker": "EQR",
@@ -954,7 +954,7 @@
     {
       "ticker": "EXR",
       "name": "Extra Space Storage",
-      "sector": "Specialized REITs"
+      "sector": "Self-Storage REITs"
     },
     {
       "ticker": "XOM",
@@ -1329,7 +1329,7 @@
     {
       "ticker": "IRM",
       "name": "Iron Mountain",
-      "sector": "Specialized REITs"
+      "sector": "Other Specialized REITs"
     },
     {
       "ticker": "JBHT",
@@ -1949,7 +1949,7 @@
     {
       "ticker": "PSA",
       "name": "Public Storage",
-      "sector": "Specialized REITs"
+      "sector": "Self-Storage REITs"
     },
     {
       "ticker": "PHM",
@@ -2064,7 +2064,7 @@
     {
       "ticker": "SBAC",
       "name": "SBA Communications",
-      "sector": "Specialized REITs"
+      "sector": "Telecom Tower REITs"
     },
     {
       "ticker": "SLB",
@@ -2454,7 +2454,7 @@
     {
       "ticker": "WY",
       "name": "Weyerhaeuser",
-      "sector": "Specialized REITs"
+      "sector": "Timber REITs"
     },
     {
       "ticker": "WHR",

@@ -1,5 +1,5 @@
 {
-  "update": 1682978996675,
+  "update": 1683065372488,
   "companies": [
     {
       "ticker": "MMM",
@@ -994,11 +994,6 @@
     {
       "ticker": "FITB",
       "name": "Fifth Third Bank",
-      "sector": "Regional Banks"
-    },
-    {
-      "ticker": "FRC",
-      "name": "First Republic Bank",
       "sector": "Regional Banks"
     },
     {

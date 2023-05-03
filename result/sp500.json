@@ -1,5 +1,5 @@
 {
-  "update": 1683065372488,
+  "update": 1683151811525,
   "companies": [
     {
       "ticker": "MMM",
@@ -285,6 +285,11 @@
       "ticker": "AVY",
       "name": "Avery Dennison",
       "sector": "Paper & Plastic Packaging Products & Materials"
+    },
+    {
+      "ticker": "AXON",
+      "name": "Axon Enterprise",
+      "sector": "Aerospace & Defense"
     },
     {
       "ticker": "BKR",

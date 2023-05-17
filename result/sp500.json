@@ -1,5 +1,5 @@
 {
-  "update": 1684274989006,
+  "update": 1684361353728,
   "companies": [
     {
       "ticker": "MMM",
@@ -1857,11 +1857,6 @@
       "sector": "Soft Drinks & Non-alcoholic Beverages"
     },
     {
-      "ticker": "PKI",
-      "name": "PerkinElmer",
-      "sector": "Health Care Equipment"
-    },
-    {
       "ticker": "PFE",
       "name": "Pfizer",
       "sector": "Pharmaceuticals"
@@ -2019,6 +2014,11 @@
     {
       "ticker": "RMD",
       "name": "ResMed",
+      "sector": "Health Care Equipment"
+    },
+    {
+      "ticker": "RVTY",
+      "name": "Revvity",
       "sector": "Health Care Equipment"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "update": 1686175768320,
+  "update": 1686262168955,
   "companies": [
     {
       "ticker": "MMM",
@@ -1017,7 +1017,7 @@
       "sector": "Transaction & Payment Processing Services"
     },
     {
-      "ticker": "FISV",
+      "ticker": "FI",
       "name": "Fiserv",
       "sector": "Transaction & Payment Processing Services"
     },

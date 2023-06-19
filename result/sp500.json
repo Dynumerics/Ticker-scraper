@@ -1,5 +1,5 @@
 {
-  "update": 1687126153377,
+  "update": 1687212624404,
   "companies": [
     {
       "ticker": "MMM",
@@ -760,11 +760,6 @@
       "ticker": "DFS",
       "name": "Discover Financial",
       "sector": "Consumer Finance"
-    },
-    {
-      "ticker": "DISH",
-      "name": "Dish Network",
-      "sector": "Cable & Satellite"
     },
     {
       "ticker": "DIS",
@@ -1820,6 +1815,11 @@
       "ticker": "PKG",
       "name": "Packaging Corporation of America",
       "sector": "Paper & Plastic Packaging Products & Materials"
+    },
+    {
+      "ticker": "PANW",
+      "name": "Palo Alto Networks",
+      "sector": "Application Software"
     },
     {
       "ticker": "PARA",

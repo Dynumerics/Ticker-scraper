@@ -1,5 +1,5 @@
 {
-  "update": 1689027031692,
+  "update": 1689113444528,
   "companies": [
     {
       "ticker": "MMM",
@@ -129,7 +129,7 @@
     {
       "ticker": "AMZN",
       "name": "Amazon",
-      "sector": "Internet & Direct Marketing Retail"
+      "sector": ""
     },
     {
       "ticker": "AMCR",
@@ -369,7 +369,7 @@
     {
       "ticker": "BKNG",
       "name": "Booking Holdings",
-      "sector": "Internet & Direct Marketing Retail"
+      "sector": ""
     },
     {
       "ticker": "BWA",
@@ -829,7 +829,7 @@
     {
       "ticker": "EBAY",
       "name": "eBay",
-      "sector": "Internet & Direct Marketing Retail"
+      "sector": ""
     },
     {
       "ticker": "ECL",
@@ -919,10 +919,10 @@
     {
       "ticker": "ETSY",
       "name": "Etsy",
-      "sector": "Internet & Direct Marketing Retail"
+      "sector": ""
     },
     {
-      "ticker": "RE",
+      "ticker": "EG",
       "name": "Everest Re",
       "sector": "Reinsurance"
     },
@@ -944,7 +944,7 @@
     {
       "ticker": "EXPE",
       "name": "Expedia Group",
-      "sector": "Internet & Direct Marketing Retail"
+      "sector": ""
     },
     {
       "ticker": "EXPD",

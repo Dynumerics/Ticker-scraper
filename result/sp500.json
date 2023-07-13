@@ -1,5 +1,5 @@
 {
-  "update": 1689199829159,
+  "update": 1689286233573,
   "companies": [
     {
       "ticker": "MMM",
@@ -129,7 +129,7 @@
     {
       "ticker": "AMZN",
       "name": "Amazon",
-      "sector": ""
+      "sector": "Broadline Retail"
     },
     {
       "ticker": "AMCR",
@@ -369,7 +369,7 @@
     {
       "ticker": "BKNG",
       "name": "Booking Holdings",
-      "sector": ""
+      "sector": "Hotels, Restaurants & Leisure"
     },
     {
       "ticker": "BWA",
@@ -829,7 +829,7 @@
     {
       "ticker": "EBAY",
       "name": "eBay",
-      "sector": ""
+      "sector": "Broadline Retail"
     },
     {
       "ticker": "ECL",
@@ -919,7 +919,7 @@
     {
       "ticker": "ETSY",
       "name": "Etsy",
-      "sector": ""
+      "sector": "Broadline Retail"
     },
     {
       "ticker": "EG",
@@ -944,7 +944,7 @@
     {
       "ticker": "EXPE",
       "name": "Expedia Group",
-      "sector": ""
+      "sector": "Hotels, Restaurants & Leisure"
     },
     {
       "ticker": "EXPD",

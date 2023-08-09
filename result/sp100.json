@@ -1,5 +1,5 @@
 {
-  "update": 1691532577303,
+  "update": 1691618972594,
   "companies": [
     {
       "ticker": "AAPL",
@@ -403,7 +403,7 @@
     },
     {
       "ticker": "RTX",
-      "name": "Raytheon Technologies",
+      "name": "RTX Corporation",
       "sector": "Industrials"
     },
     {

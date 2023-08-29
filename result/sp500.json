@@ -1,5 +1,5 @@
 {
-  "update": 1693260533693,
+  "update": 1693346935295,
   "companies": [
     {
       "ticker": "MMM",
@@ -45,11 +45,6 @@
       "ticker": "ADP",
       "name": "ADP",
       "sector": "Human Resource & Employment Services"
-    },
-    {
-      "ticker": "AAP",
-      "name": "Advance Auto Parts",
-      "sector": "Automotive Retail"
     },
     {
       "ticker": "AES",
@@ -1365,6 +1360,11 @@
       "ticker": "K",
       "name": "Kellogg's",
       "sector": "Packaged Foods & Meats"
+    },
+    {
+      "ticker": "KVUE",
+      "name": "Kenvue",
+      "sector": "Personal Care Products"
     },
     {
       "ticker": "KDP",

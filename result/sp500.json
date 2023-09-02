@@ -1,5 +1,5 @@
 {
-  "update": 1693606139093,
+  "update": 1693692510223,
   "companies": [
     {
       "ticker": "MMM",
@@ -175,11 +175,6 @@
       "ticker": "AMP",
       "name": "Ameriprise Financial",
       "sector": "Asset Management & Custody Banks"
-    },
-    {
-      "ticker": "ABC",
-      "name": "AmerisourceBergen",
-      "sector": "Health Care Distributors"
     },
     {
       "ticker": "AME",
@@ -364,7 +359,7 @@
     {
       "ticker": "BKNG",
       "name": "Booking Holdings",
-      "sector": "Hotels, Restaurants & Leisure"
+      "sector": "Hotels, Resorts & Cruise Lines"
     },
     {
       "ticker": "BWA",
@@ -939,7 +934,7 @@
     {
       "ticker": "EXPE",
       "name": "Expedia Group",
-      "sector": "Hotels, Restaurants & Leisure"
+      "sector": "Hotels, Resorts & Cruise Lines"
     },
     {
       "ticker": "EXPD",

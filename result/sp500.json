@@ -1,5 +1,5 @@
 {
-  "update": 1693692510223,
+  "update": 1693778897849,
   "companies": [
     {
       "ticker": "MMM",
@@ -269,7 +269,7 @@
     {
       "ticker": "AVB",
       "name": "AvalonBay Communities",
-      "sector": "Residential REITs"
+      "sector": "Multi-Family Residential REITs"
     },
     {
       "ticker": "AVY",
@@ -424,7 +424,7 @@
     {
       "ticker": "CPT",
       "name": "Camden Property Trust",
-      "sector": "Residential REITs"
+      "sector": "Multi-Family Residential REITs"
     },
     {
       "ticker": "CPB",
@@ -485,6 +485,11 @@
       "ticker": "CE",
       "name": "Celanese",
       "sector": "Specialty Chemicals"
+    },
+    {
+      "ticker": "COR",
+      "name": "Cencora",
+      "sector": "Health Care Distributors"
     },
     {
       "ticker": "CNC",
@@ -894,12 +899,12 @@
     {
       "ticker": "EQR",
       "name": "Equity Residential",
-      "sector": "Residential REITs"
+      "sector": "Multi-Family Residential REITs"
     },
     {
       "ticker": "ESS",
       "name": "Essex Property Trust",
-      "sector": "Residential REITs"
+      "sector": "Multi-Family Residential REITs"
     },
     {
       "ticker": "EL",
@@ -1304,7 +1309,7 @@
     {
       "ticker": "INVH",
       "name": "Invitation Homes",
-      "sector": "Residential REITs"
+      "sector": "Single-Family Residential REITs"
     },
     {
       "ticker": "IQV",
@@ -1594,7 +1599,7 @@
     {
       "ticker": "MAA",
       "name": "Mid-America Apartment Communities",
-      "sector": "Residential REITs"
+      "sector": "Multi-Family Residential REITs"
     },
     {
       "ticker": "MRNA",
@@ -2294,7 +2299,7 @@
     {
       "ticker": "UDR",
       "name": "UDR, Inc.",
-      "sector": "Residential REITs"
+      "sector": "Multi-Family Residential REITs"
     },
     {
       "ticker": "ULTA",

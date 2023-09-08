@@ -1,5 +1,5 @@
 {
-  "update": 1694124556643,
+  "update": 1694210936025,
   "companies": [
     {
       "ticker": "MMM",
@@ -264,7 +264,7 @@
     {
       "ticker": "AZO",
       "name": "AutoZone",
-      "sector": "Specialty Stores"
+      "sector": "Automotive Retail"
     },
     {
       "ticker": "AVB",
@@ -1104,7 +1104,7 @@
     {
       "ticker": "GPC",
       "name": "Genuine Parts Company",
-      "sector": "Specialty Stores"
+      "sector": "Automotive Parts & Equipment"
     },
     {
       "ticker": "GILD",
@@ -1764,7 +1764,7 @@
     {
       "ticker": "ORLY",
       "name": "O'Reilly Auto Parts",
-      "sector": "Specialty Stores"
+      "sector": "Automotive Retail"
     },
     {
       "ticker": "OXY",

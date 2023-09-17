@@ -1,5 +1,5 @@
 {
-  "update": 1694902099967,
+  "update": 1694988505711,
   "companies": [
     {
       "ticker": "MMM",
@@ -60,6 +60,11 @@
       "ticker": "A",
       "name": "Agilent Technologies",
       "sector": "Health Care Equipment"
+    },
+    {
+      "ticker": "ABNB",
+      "name": "Airbnb",
+      "sector": "Hotels, Resorts & Cruise Lines"
     },
     {
       "ticker": "APD",
@@ -344,6 +349,11 @@
     {
       "ticker": "BLK",
       "name": "BlackRock",
+      "sector": "Asset Management & Custody Banks"
+    },
+    {
+      "ticker": "BX",
+      "name": "Blackstone",
       "sector": "Asset Management & Custody Banks"
     },
     {
@@ -1447,11 +1457,6 @@
       "sector": "Homebuilding"
     },
     {
-      "ticker": "LNC",
-      "name": "Lincoln Financial",
-      "sector": "Multi-line Insurance"
-    },
-    {
       "ticker": "LIN",
       "name": "Linde plc",
       "sector": "Industrial Gases"
@@ -1675,11 +1680,6 @@
       "ticker": "NFLX",
       "name": "Netflix",
       "sector": "Movies & Entertainment"
-    },
-    {
-      "ticker": "NWL",
-      "name": "Newell Brands",
-      "sector": "Housewares & Specialties"
     },
     {
       "ticker": "NEM",

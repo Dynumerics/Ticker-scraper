@@ -1,5 +1,5 @@
 {
-  "update": 1694988504707,
+  "update": 1695074962503,
   "companies": [
     {
       "ticker": "AAPL",
@@ -157,6 +157,11 @@
       "sector": "Energy"
     },
     {
+      "ticker": "DE",
+      "name": "Deere (John)",
+      "sector": "Industrials"
+    },
+    {
       "ticker": "DHR",
       "name": "Danaher",
       "sector": "Health Care"
@@ -250,11 +255,6 @@
       "ticker": "INTC",
       "name": "Intel",
       "sector": "Information Technology"
-    },
-    {
-      "ticker": "DE",
-      "name": "John Deere",
-      "sector": "Industrials"
     },
     {
       "ticker": "JNJ",

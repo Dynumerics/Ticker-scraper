@@ -1,5 +1,5 @@
 {
-  "update": 1695420546748,
+  "update": 1695506921004,
   "companies": [
     {
       "ticker": "MMM",
@@ -322,7 +322,7 @@
       "sector": "Property & Casualty Insurance"
     },
     {
-      "ticker": "BRK.B",
+      "ticker": "BRK-B",
       "name": "Berkshire Hathaway",
       "sector": "Multi-Sector Holdings"
     },
@@ -407,7 +407,7 @@
       "sector": "Insurance Brokers"
     },
     {
-      "ticker": "BF.B",
+      "ticker": "BF-B",
       "name": "Brown–Forman",
       "sector": "Distillers & Vintners"
     },

@@ -1,5 +1,5 @@
 {
-  "update": 1696457421851,
+  "update": 1696543755619,
   "companies": [
     {
       "ticker": "MMM",
@@ -815,11 +815,6 @@
       "ticker": "DD",
       "name": "DuPont",
       "sector": "Specialty Chemicals"
-    },
-    {
-      "ticker": "DXC",
-      "name": "DXC Technology",
-      "sector": "IT Consulting & Other Services"
     },
     {
       "ticker": "EMN",
@@ -2345,6 +2340,11 @@
       "ticker": "VTR",
       "name": "Ventas",
       "sector": "Health Care REITs"
+    },
+    {
+      "ticker": "VLTO",
+      "name": "Veralto",
+      "sector": ""
     },
     {
       "ticker": "VRSN",

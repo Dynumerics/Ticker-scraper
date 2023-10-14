@@ -1,5 +1,5 @@
 {
-  "update": 1697234975277,
+  "update": 1697321308548,
   "companies": [
     {
       "ticker": "MMM",
@@ -25,11 +25,6 @@
       "ticker": "ACN",
       "name": "Accenture",
       "sector": "IT Consulting & Other Services"
-    },
-    {
-      "ticker": "ATVI",
-      "name": "Activision Blizzard",
-      "sector": "Interactive Home Entertainment"
     },
     {
       "ticker": "ADM",
@@ -2344,7 +2339,7 @@
     {
       "ticker": "VLTO",
       "name": "Veralto",
-      "sector": ""
+      "sector": "Environmental & Facilities Services"
     },
     {
       "ticker": "VRSN",

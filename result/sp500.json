@@ -1,5 +1,5 @@
 {
-  "update": 1697580615057,
+  "update": 1697666951296,
   "companies": [
     {
       "ticker": "MMM",
@@ -1212,6 +1212,11 @@
       "sector": "Technology Hardware, Storage & Peripherals"
     },
     {
+      "ticker": "HUBB",
+      "name": "Hubbell Incorporated",
+      "sector": "Industrial Machinery"
+    },
+    {
       "ticker": "HUM",
       "name": "Humana",
       "sector": "Managed Health Care"
@@ -1475,6 +1480,11 @@
       "ticker": "LOW",
       "name": "Lowe's",
       "sector": "Home Improvement Retail"
+    },
+    {
+      "ticker": "LULU",
+      "name": "Lululemon Athletica",
+      "sector": "Apparel, Accessories & Luxury Goods"
     },
     {
       "ticker": "LYB",
@@ -1785,11 +1795,6 @@
       "ticker": "ORCL",
       "name": "Oracle Corporation",
       "sector": "Application Software"
-    },
-    {
-      "ticker": "OGN",
-      "name": "Organon & Co.",
-      "sector": "Pharmaceuticals"
     },
     {
       "ticker": "OTIS",

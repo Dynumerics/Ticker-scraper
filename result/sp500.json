@@ -1,5 +1,5 @@
 {
-  "update": 1698185343864,
+  "update": 1698271753168,
   "companies": [
     {
       "ticker": "MMM",
@@ -2419,7 +2419,7 @@
     {
       "ticker": "WAT",
       "name": "Waters Corporation",
-      "sector": "Health Care Distributors"
+      "sector": "Life Sciences Tools & Services"
     },
     {
       "ticker": "WEC",

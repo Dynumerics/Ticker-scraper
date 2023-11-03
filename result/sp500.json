@@ -1,5 +1,5 @@
 {
-  "update": 1698962901485,
+  "update": 1699049351197,
   "companies": [
     {
       "ticker": "MMM",
@@ -1814,7 +1814,7 @@
     {
       "ticker": "PANW",
       "name": "Palo Alto Networks",
-      "sector": "Application Software"
+      "sector": "Systems Software"
     },
     {
       "ticker": "PARA",

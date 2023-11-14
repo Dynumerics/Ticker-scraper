@@ -1,5 +1,5 @@
 {
-  "update": 1699913353940,
+  "update": 1699999765060,
   "companies": [
     {
       "ticker": "MMM",
@@ -1214,7 +1214,7 @@
     {
       "ticker": "HUBB",
       "name": "Hubbell Incorporated",
-      "sector": "Industrial Machinery"
+      "sector": "Industrial Machinery & Supplies & Components"
     },
     {
       "ticker": "HUM",

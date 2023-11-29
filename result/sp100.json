@@ -1,5 +1,5 @@
 {
-  "update": 1701209385190,
+  "update": 1701295792155,
   "companies": [
     {
       "ticker": "AAPL",
@@ -93,7 +93,7 @@
     },
     {
       "ticker": "BRK.B",
-      "name": "Berkshire Hathaway",
+      "name": "Berkshire Hathaway (Class B)",
       "sector": "Financials"
     },
     {

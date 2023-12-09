@@ -1,5 +1,5 @@
 {
-  "update": 1702073390351,
+  "update": 1702159732240,
   "companies": [
     {
       "ticker": "MMM",
@@ -19,7 +19,7 @@
     {
       "ticker": "ABBV",
       "name": "AbbVie",
-      "sector": "Pharmaceuticals"
+      "sector": "Biotechnology"
     },
     {
       "ticker": "ACN",
@@ -27,19 +27,14 @@
       "sector": "IT Consulting & Other Services"
     },
     {
-      "ticker": "ADM",
-      "name": "ADM",
-      "sector": "Agricultural Products & Services"
-    },
-    {
       "ticker": "ADBE",
       "name": "Adobe Inc.",
       "sector": "Application Software"
     },
     {
-      "ticker": "ADP",
-      "name": "ADP",
-      "sector": "Human Resource & Employment Services"
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices",
+      "sector": "Semiconductors"
     },
     {
       "ticker": "AES",
@@ -54,17 +49,17 @@
     {
       "ticker": "A",
       "name": "Agilent Technologies",
-      "sector": "Health Care Equipment"
-    },
-    {
-      "ticker": "ABNB",
-      "name": "Airbnb",
-      "sector": "Hotels, Resorts & Cruise Lines"
+      "sector": "Life Sciences Tools & Services"
     },
     {
       "ticker": "APD",
       "name": "Air Products and Chemicals",
       "sector": "Industrial Gases"
+    },
+    {
+      "ticker": "ABNB",
+      "name": "Airbnb",
+      "sector": "Hotels, Resorts & Cruise Lines"
     },
     {
       "ticker": "AKAM",
@@ -132,11 +127,6 @@
       "sector": "Paper & Plastic Packaging Products & Materials"
     },
     {
-      "ticker": "AMD",
-      "name": "AMD",
-      "sector": "Semiconductors"
-    },
-    {
       "ticker": "AEE",
       "name": "Ameren",
       "sector": "Multi-Utilities"
@@ -159,7 +149,7 @@
     {
       "ticker": "AIG",
       "name": "American International Group",
-      "sector": "Property & Casualty Insurance"
+      "sector": "Multi-line Insurance"
     },
     {
       "ticker": "AMT",
@@ -229,7 +219,12 @@
     {
       "ticker": "ACGL",
       "name": "Arch Capital Group",
-      "sector": "Reinsurance"
+      "sector": "Property & Casualty Insurance"
+    },
+    {
+      "ticker": "ADM",
+      "name": "Archer-Daniels-Midland",
+      "sector": "Agricultural Products & Services"
     },
     {
       "ticker": "ANET",
@@ -260,6 +255,11 @@
       "ticker": "ADSK",
       "name": "Autodesk",
       "sector": "Application Software"
+    },
+    {
+      "ticker": "ADP",
+      "name": "Automated Data Processing",
+      "sector": "Human Resource & Employment Services"
     },
     {
       "ticker": "AZO",
@@ -297,9 +297,14 @@
       "sector": "Diversified Banks"
     },
     {
+      "ticker": "BK",
+      "name": "Bank of New York Mellon",
+      "sector": "Asset Management & Custody Banks"
+    },
+    {
       "ticker": "BBWI",
       "name": "Bath & Body Works, Inc.",
-      "sector": "Specialty Stores"
+      "sector": "Other Specialty Retail"
     },
     {
       "ticker": "BAX",
@@ -310,11 +315,6 @@
       "ticker": "BDX",
       "name": "Becton Dickinson",
       "sector": "Health Care Equipment"
-    },
-    {
-      "ticker": "WRB",
-      "name": "Berkley",
-      "sector": "Property & Casualty Insurance"
     },
     {
       "ticker": "BRK.B",
@@ -349,11 +349,6 @@
     {
       "ticker": "BX",
       "name": "Blackstone",
-      "sector": "Asset Management & Custody Banks"
-    },
-    {
-      "ticker": "BK",
-      "name": "BNY Mellon",
       "sector": "Asset Management & Custody Banks"
     },
     {
@@ -410,11 +405,6 @@
       "ticker": "BG",
       "name": "Bunge Global SA",
       "sector": "Agricultural Products & Services"
-    },
-    {
-      "ticker": "CHRW",
-      "name": "C.H. Robinson",
-      "sector": "Air Freight & Logistics"
     },
     {
       "ticker": "CDNS",
@@ -517,6 +507,11 @@
       "sector": "Fertilizers & Agricultural Chemicals"
     },
     {
+      "ticker": "CHRW",
+      "name": "CH Robinson",
+      "sector": "Air Freight & Logistics"
+    },
+    {
       "ticker": "CRL",
       "name": "Charles River Laboratories",
       "sector": "Life Sciences Tools & Services"
@@ -554,7 +549,7 @@
     {
       "ticker": "CI",
       "name": "Cigna",
-      "sector": "Managed Health Care"
+      "sector": "Health Care Services"
     },
     {
       "ticker": "CINF",
@@ -634,7 +629,7 @@
     {
       "ticker": "ED",
       "name": "Consolidated Edison",
-      "sector": "Electric Utilities"
+      "sector": "Multi-Utilities"
     },
     {
       "ticker": "STZ",
@@ -644,7 +639,7 @@
     {
       "ticker": "CEG",
       "name": "Constellation Energy",
-      "sector": "Multi-Utilities"
+      "sector": "Electric Utilities"
     },
     {
       "ticker": "COO",
@@ -694,7 +689,7 @@
     {
       "ticker": "CMI",
       "name": "Cummins",
-      "sector": "Industrial Machinery & Supplies & Components"
+      "sector": "Construction Machinery & Heavy Transportation Equipment"
     },
     {
       "ticker": "CVS",
@@ -702,14 +697,9 @@
       "sector": "Health Care Services"
     },
     {
-      "ticker": "DHI",
-      "name": "D.R. Horton",
-      "sector": "Homebuilding"
-    },
-    {
       "ticker": "DHR",
       "name": "Danaher Corporation",
-      "sector": "Health Care Equipment"
+      "sector": "Life Sciences Tolls & Services"
     },
     {
       "ticker": "DRI",
@@ -719,7 +709,7 @@
     {
       "ticker": "DVA",
       "name": "DaVita Inc.",
-      "sector": "Health Care Facilities"
+      "sector": "Health Care Services"
     },
     {
       "ticker": "DE",
@@ -762,11 +752,6 @@
       "sector": "Consumer Finance"
     },
     {
-      "ticker": "DIS",
-      "name": "Disney",
-      "sector": "Movies & Entertainment"
-    },
-    {
       "ticker": "DG",
       "name": "Dollar General",
       "sector": "Consumer Staples Merchandise Retail"
@@ -779,7 +764,7 @@
     {
       "ticker": "D",
       "name": "Dominion Energy",
-      "sector": "Electric Utilities"
+      "sector": "Multi-Utilities"
     },
     {
       "ticker": "DPZ",
@@ -795,6 +780,11 @@
       "ticker": "DOW",
       "name": "Dow Inc.",
       "sector": "Commodity Chemicals"
+    },
+    {
+      "ticker": "DHI",
+      "name": "DR Horton",
+      "sector": "Homebuilding"
     },
     {
       "ticker": "DTE",
@@ -814,7 +804,7 @@
     {
       "ticker": "EMN",
       "name": "Eastman Chemical Company",
-      "sector": "Diversified Chemicals"
+      "sector": "Specialty Chemicals"
     },
     {
       "ticker": "ETN",
@@ -864,7 +854,7 @@
     {
       "ticker": "ENPH",
       "name": "Enphase",
-      "sector": "Electronic Components"
+      "sector": "Semiconductor Materials & Equipment"
     },
     {
       "ticker": "ETR",
@@ -929,12 +919,12 @@
     {
       "ticker": "ES",
       "name": "Eversource",
-      "sector": "Multi-Utilities"
+      "sector": "Electric Utilities"
     },
     {
       "ticker": "EXC",
       "name": "Exelon",
-      "sector": "Multi-Utilities"
+      "sector": "Electric Utilities"
     },
     {
       "ticker": "EXPE",
@@ -974,7 +964,7 @@
     {
       "ticker": "FAST",
       "name": "Fastenal",
-      "sector": "Building Products"
+      "sector": "Trading Companies & Distributors"
     },
     {
       "ticker": "FRT",
@@ -987,9 +977,14 @@
       "sector": "Air Freight & Logistics"
     },
     {
+      "ticker": "FIS",
+      "name": "Fidelity National Information Services",
+      "sector": "Transaction & Payment Processing Services"
+    },
+    {
       "ticker": "FITB",
       "name": "Fifth Third Bank",
-      "sector": "Regional Banks"
+      "sector": "Diversified Banks"
     },
     {
       "ticker": "FSLR",
@@ -1000,11 +995,6 @@
       "ticker": "FE",
       "name": "FirstEnergy",
       "sector": "Electric Utilities"
-    },
-    {
-      "ticker": "FIS",
-      "name": "FIS",
-      "sector": "Transaction & Payment Processing Services"
     },
     {
       "ticker": "FI",
@@ -1039,12 +1029,12 @@
     {
       "ticker": "FOXA",
       "name": "Fox Corporation (Class A)",
-      "sector": "Movies & Entertainment"
+      "sector": "Broadcasting"
     },
     {
       "ticker": "FOX",
       "name": "Fox Corporation (Class B)",
-      "sector": "Movies & Entertainment"
+      "sector": "Broadcasting"
     },
     {
       "ticker": "BEN",
@@ -1069,12 +1059,12 @@
     {
       "ticker": "GEHC",
       "name": "GE HealthCare",
-      "sector": "Health Care Technology"
+      "sector": "Health Care Equipment"
     },
     {
       "ticker": "GEN",
       "name": "Gen Digital",
-      "sector": "Application Software"
+      "sector": "Systems Software"
     },
     {
       "ticker": "GNRC",
@@ -1104,7 +1094,7 @@
     {
       "ticker": "GPC",
       "name": "Genuine Parts Company",
-      "sector": "Automotive Parts & Equipment"
+      "sector": "Distributors"
     },
     {
       "ticker": "GILD",
@@ -1112,14 +1102,14 @@
       "sector": "Biotechnology"
     },
     {
-      "ticker": "GL",
-      "name": "Globe Life",
-      "sector": "Life & Health Insurance"
-    },
-    {
       "ticker": "GPN",
       "name": "Global Payments",
       "sector": "Transaction & Payment Processing Services"
+    },
+    {
+      "ticker": "GL",
+      "name": "Globe Life",
+      "sector": "Life & Health Insurance"
     },
     {
       "ticker": "GS",
@@ -2392,6 +2382,11 @@
       "sector": "Construction Materials"
     },
     {
+      "ticker": "WRB",
+      "name": "Berkley",
+      "sector": "Property & Casualty Insurance"
+    },
+    {
       "ticker": "WAB",
       "name": "Wabtec",
       "sector": "Construction Machinery & Heavy Transportation Equipment"
@@ -2405,6 +2400,11 @@
       "ticker": "WMT",
       "name": "Walmart",
       "sector": "Consumer Staples Merchandise Retail"
+    },
+    {
+      "ticker": "DIS",
+      "name": "Walt Disney",
+      "sector": "Movies & Entertainment"
     },
     {
       "ticker": "WBD",

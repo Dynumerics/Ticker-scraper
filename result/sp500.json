@@ -1,5 +1,5 @@
 {
-  "update": 1702764545524,
+  "update": 1702850973967,
   "companies": [
     {
       "ticker": "MMM",
@@ -65,11 +65,6 @@
       "ticker": "AKAM",
       "name": "Akamai",
       "sector": "Internet Services & Infrastructure"
-    },
-    {
-      "ticker": "ALK",
-      "name": "Alaska Air Group",
-      "sector": "Passenger Airlines"
     },
     {
       "ticker": "ALB",
@@ -400,6 +395,11 @@
       "ticker": "BF.B",
       "name": "Brown–Forman",
       "sector": "Distillers & Vintners"
+    },
+    {
+      "ticker": "BLDR",
+      "name": "Builders FirstSource",
+      "sector": "Building Products"
     },
     {
       "ticker": "BG",
@@ -1322,6 +1322,11 @@
       "sector": "Cargo Ground Transportation"
     },
     {
+      "ticker": "JBL",
+      "name": "Jabil",
+      "sector": "Electronic Manufacturing Services"
+    },
+    {
       "ticker": "JKHY",
       "name": "Jack Henry & Associates",
       "sector": "Transaction & Payment Processing Services"
@@ -2062,11 +2067,6 @@
       "sector": "Technology Hardware, Storage & Peripherals"
     },
     {
-      "ticker": "SEE",
-      "name": "Sealed Air",
-      "sector": "Paper & Plastic Packaging Products & Materials"
-    },
-    {
       "ticker": "SRE",
       "name": "Sempra Energy",
       "sector": "Multi-Utilities"
@@ -2100,11 +2100,6 @@
       "ticker": "SNA",
       "name": "Snap-on",
       "sector": "Industrial Machinery & Supplies & Components"
-    },
-    {
-      "ticker": "SEDG",
-      "name": "SolarEdge",
-      "sector": "Semiconductor Materials & Equipment"
     },
     {
       "ticker": "SO",
@@ -2280,6 +2275,11 @@
       "ticker": "USB",
       "name": "U.S. Bank",
       "sector": "Diversified Banks"
+    },
+    {
+      "ticker": "UBER",
+      "name": "Uber",
+      "sector": "Passenger Ground Transportation"
     },
     {
       "ticker": "UDR",

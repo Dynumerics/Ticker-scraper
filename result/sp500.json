@@ -1,5 +1,5 @@
 {
-  "update": 1703974140550,
+  "update": 1704060559103,
   "companies": [
     {
       "ticker": "MMM",
@@ -2007,7 +2007,7 @@
       "sector": "Health Care Equipment"
     },
     {
-      "ticker": "RVTY (Previously PKI)",
+      "ticker": "RVTY",
       "name": "Revvity (Previously PerkinElmer)",
       "sector": "Health Care Equipment"
     },

@@ -1,5 +1,5 @@
 {
-  "update": 1704233383828,
+  "update": 1704319805837,
   "companies": [
     {
       "ticker": "MMM",
@@ -699,7 +699,7 @@
     {
       "ticker": "DHR",
       "name": "Danaher Corporation",
-      "sector": "Life Sciences Tolls & Services"
+      "sector": "Life Sciences Tools & Services"
     },
     {
       "ticker": "DRI",

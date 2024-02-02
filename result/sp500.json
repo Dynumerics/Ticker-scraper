@@ -1,5 +1,5 @@
 {
-  "update": 1706825395326,
+  "update": 1706911727794,
   "companies": [
     {
       "ticker": "MMM",
@@ -497,11 +497,6 @@
       "sector": "Multi-Utilities"
     },
     {
-      "ticker": "CDAY",
-      "name": "Ceridian",
-      "sector": "Human Resource & Employment Services"
-    },
-    {
       "ticker": "CF",
       "name": "CF Industries",
       "sector": "Fertilizers & Agricultural Chemicals"
@@ -710,6 +705,11 @@
       "ticker": "DVA",
       "name": "DaVita Inc.",
       "sector": "Health Care Services"
+    },
+    {
+      "ticker": "DAY",
+      "name": "Dayforce",
+      "sector": "Human Resource & Employment Services"
     },
     {
       "ticker": "DE",

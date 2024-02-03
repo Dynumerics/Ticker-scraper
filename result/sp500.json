@@ -1,5 +1,5 @@
 {
-  "update": 1706911727794,
+  "update": 1706998187066,
   "companies": [
     {
       "ticker": "MMM",
@@ -2234,7 +2234,7 @@
     {
       "ticker": "TSCO",
       "name": "Tractor Supply",
-      "sector": "Specialty Stores"
+      "sector": "Other Specialty Retail"
     },
     {
       "ticker": "TT",
@@ -2289,7 +2289,7 @@
     {
       "ticker": "ULTA",
       "name": "Ulta Beauty",
-      "sector": "Specialty Stores"
+      "sector": "Other Specialty Retail"
     },
     {
       "ticker": "UNP",

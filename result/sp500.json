@@ -1,5 +1,5 @@
 {
-  "update": 1709503721448,
+  "update": 1709590159953,
   "companies": [
     {
       "ticker": "MMM",
@@ -1137,7 +1137,7 @@
       "sector": "Health Care Facilities"
     },
     {
-      "ticker": "PEAK",
+      "ticker": "DOC",
       "name": "Healthpeak",
       "sector": "Health Care REITs"
     },

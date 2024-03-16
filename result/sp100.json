@@ -1,5 +1,5 @@
 {
-  "update": 1710540610097,
+  "update": 1710626972189,
   "companies": [
     {
       "ticker": "AAPL",
@@ -13,7 +13,7 @@
     },
     {
       "ticker": "ABT",
-      "name": "Abbott",
+      "name": "Abbott Laboratories",
       "sector": "Health Care"
     },
     {
@@ -187,11 +187,6 @@
       "sector": "Industrials"
     },
     {
-      "ticker": "EXC",
-      "name": "Exelon",
-      "sector": "Utilities"
-    },
-    {
       "ticker": "F",
       "name": "Ford",
       "sector": "Consumer Discretionary"
@@ -208,7 +203,7 @@
     },
     {
       "ticker": "GE",
-      "name": "GE",
+      "name": "General Electric",
       "sector": "Industrials"
     },
     {
@@ -218,7 +213,7 @@
     },
     {
       "ticker": "GM",
-      "name": "GM",
+      "name": "General Motors",
       "sector": "Consumer Discretionary"
     },
     {
@@ -254,6 +249,11 @@
     {
       "ticker": "INTC",
       "name": "Intel",
+      "sector": "Information Technology"
+    },
+    {
+      "ticker": "INTU",
+      "name": "Intuit",
       "sector": "Information Technology"
     },
     {
@@ -428,7 +428,7 @@
     },
     {
       "ticker": "SPG",
-      "name": "Simon",
+      "name": "Simon Property Group",
       "sector": "Real Estate"
     },
     {
@@ -448,7 +448,7 @@
     },
     {
       "ticker": "TMUS",
-      "name": "T-Mobile",
+      "name": "T-Mobile US",
       "sector": "Communication Services"
     },
     {

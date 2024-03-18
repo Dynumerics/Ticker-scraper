@@ -1,5 +1,5 @@
 {
-  "update": 1710713349501,
+  "update": 1710799837345,
   "companies": [
     {
       "ticker": "MMM",
@@ -710,6 +710,11 @@
       "ticker": "DAY",
       "name": "Dayforce",
       "sector": "Human Resource & Employment Services"
+    },
+    {
+      "ticker": "DECK",
+      "name": "Deckers Brands",
+      "sector": "Footwear"
     },
     {
       "ticker": "DE",
@@ -2008,7 +2013,7 @@
     },
     {
       "ticker": "RVTY",
-      "name": "Revvity (Previously PerkinElmer)",
+      "name": "Revvity",
       "sector": "Health Care Equipment"
     },
     {
@@ -2140,6 +2145,11 @@
       "ticker": "SYK",
       "name": "Stryker Corporation",
       "sector": "Health Care Equipment"
+    },
+    {
+      "ticker": "SMCI",
+      "name": "Supermicro",
+      "sector": "Technology Hardware, Storage & Peripherals"
     },
     {
       "ticker": "SYF",
@@ -2457,11 +2467,6 @@
       "sector": "Timber REITs"
     },
     {
-      "ticker": "WHR",
-      "name": "Whirlpool Corporation",
-      "sector": "Household Appliances"
-    },
-    {
       "ticker": "WMB",
       "name": "Williams Companies",
       "sector": "Oil & Gas Storage & Transportation"
@@ -2505,11 +2510,6 @@
       "ticker": "ZBH",
       "name": "Zimmer Biomet",
       "sector": "Health Care Equipment"
-    },
-    {
-      "ticker": "ZION",
-      "name": "Zions Bancorporation",
-      "sector": "Regional Banks"
     },
     {
       "ticker": "ZTS",
